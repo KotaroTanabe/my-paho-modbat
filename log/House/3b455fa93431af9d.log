@@ -1,0 +1,3101 @@
+[FINE] Launching new model instance House-1...
+[FINE] House-1: Executing transition setup...
+[FINE] Launching new model instance House$Controller-1...
+[FINE] Launching new model instance House$TemperatureManager-1...
+[FINE] Launching new model instance House$Thermometer-1...
+[FINE] Launching new model instance House$AirConditioner-1...
+[FINE] Launching new model instance House$Thermometer-2...
+[FINE] Launching new model instance House$AirConditioner-2...
+[FINE] Launching new model instance House$Thermometer-3...
+[FINE] Launching new model instance House$AirConditioner-3...
+[FINE] Launching new model instance House$Thermometer-4...
+[FINE] Launching new model instance House$AirConditioner-4...
+[FINE] Launching new model instance House$Thermometer-5...
+[FINE] Launching new model instance House$AirConditioner-5...
+[FINE] Launching new model instance House$Thermometer-6...
+[FINE] Launching new model instance House$AirConditioner-6...
+[FINE] Launching new model instance House$Thermometer-7...
+[FINE] Launching new model instance House$AirConditioner-7...
+[FINE] Launching new model instance House$Thermometer-8...
+[FINE] Launching new model instance House$AirConditioner-8...
+[FINE] Launching new model instance House$Thermometer-9...
+[FINE] Launching new model instance House$AirConditioner-9...
+[FINE] Launching new model instance House$Thermometer-10...
+[FINE] Launching new model instance House$AirConditioner-10...
+[FINE] Launching new model instance House$Thermometer-11...
+[FINE] Launching new model instance House$AirConditioner-11...
+[FINE] Launching new model instance House$Thermometer-12...
+[FINE] Launching new model instance House$AirConditioner-12...
+[FINE] Launching new model instance House$Thermometer-13...
+[FINE] Launching new model instance House$AirConditioner-13...
+[FINE] Launching new model instance House$Thermometer-14...
+[FINE] Launching new model instance House$AirConditioner-14...
+[FINE] Launching new model instance House$Thermometer-15...
+[FINE] Launching new model instance House$AirConditioner-15...
+[FINE] Launching new model instance House$Thermometer-16...
+[FINE] Launching new model instance House$AirConditioner-16...
+[FINE] House$Thermometer-2: Executing transition connect...
+[FINE] House$AirConditioner-5: Executing transition connect...
+[FINE] choose(-100, 100) = 24
+[FINE] House$Thermometer-7: Executing transition connect...
+[FINE] choose(-100, 100) = -50
+[FINE] House$AirConditioner-16: Executing transition connect...
+[FINE] choose(-100, 100) = -25
+[FINE] choose(-100, 100) = 39
+[FINE] choose(-100, 100) = 36
+[FINE] House$AirConditioner-7: Executing transition connect...
+[FINE] choose(-100, 100) = 0
+[FINE] House$Thermometer-7: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-6: Executing transition connect...
+[FINE] choose(-100, 100) = -41
+[FINE] House$AirConditioner-1: Executing transition connect...
+[FINE] choose(-100, 100) = -55
+[FINE] House$Thermometer-8: Executing transition connect...
+[FINE] choose(-100, 100) = 76
+[FINE] House$AirConditioner-7: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-8: Executing transition connect...
+[FINE] choose(-100, 100) = 30
+[FINE] choose(-100, 100) = -97
+[FINE] House-1: Executing transition run...
+[FINE] Precondition violated, backtracking to standby.
+[FINE] House$Controller-1: Executing transition connect...
+[FINE] choose(-100, 100) = 46
+[FINE] choose(-100, 100) = -11
+[FINE] House$Thermometer-15: Executing transition connect...
+[FINE] choose(-100, 100) = -30
+[FINE] choose(-100, 100) = 89
+[FINE] choose(-100, 100) = 9
+[FINE] choose(-100, 100) = -36
+[FINE] choose(-100, 100) = -56
+[FINE] House$AirConditioner-3: Executing transition connect...
+[FINE] choose(-100, 100) = 1
+[FINE] choose(-100, 100) = -73
+3b455fa93431af9d-0-ac-0-0 recieved 1
+[FINE] choose(-100, 100) = 0
+[FINE] choose(-100, 100) = -4
+[FINE] House$AirConditioner-11: Executing transition connect...
+[FINE] choose(-100, 100) = 54
+3b455fa93431af9d-0-ac-1-0 recieved 1
+[FINE] choose(-100, 100) = 98
+[FINE] choose(-100, 100) = -70
+[FINE] House$Thermometer-9: Executing transition connect...
+3b455fa93431af9d-0-ac-1-2 recieved 0
+3b455fa93431af9d-0-ac-1-1 recieved 1
+3b455fa93431af9d-0-ac-1-3 recieved 0
+3b455fa93431af9d-0-ac-0-2 recieved 1
+[FINE] House$TemperatureManager-1: Executing transition setup...
+[FINE] choose(-100, 100) = 61
+[FINE] House$Thermometer-4: Executing transition connect...
+[FINE] choose(-100, 100) = 31
+[FINE] choose(-100, 100) = -96
+[FINE] choose(-100, 100) = 20
+[FINE] House$Thermometer-7: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-6: Executing transition end...
+3b455fa93431af9d-0-ac-2-2 recieved 1
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-6: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-6: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-6: Executing transition connect...
+3b455fa93431af9d-0-ac-3-3 recieved 1
+[FINE] choose(-100, 100) = -33
+[FINE] House$Thermometer-1: Executing transition connect...
+[FINE] choose(-100, 100) = 54
+[FINE] choose(-100, 100) = 52
+[FINE] House$AirConditioner-8: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-8: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-8: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-9: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-9: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-9: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-9: Executing transition connect...
+[FINE] choose(-100, 100) = 65
+[FINE] choose(-100, 100) = -52
+[FINE] choose(-100, 100) = 6
+[FINE] choose(-100, 100) = 70
+[FINE] choose(-100, 100) = 28
+[FINE] choose(-100, 100) = -64
+[FINE] choose(-100, 100) = -36
+[FINE] House$AirConditioner-13: Executing transition connect...
+[FINE] choose(-100, 100) = -22
+[FINE] choose(-100, 100) = -88
+[FINE] choose(-100, 100) = 21
+[FINE] choose(-100, 100) = 74
+[FINE] choose(-100, 100) = 12
+[FINE] choose(-100, 100) = -76
+[FINE] choose(-100, 100) = 85
+[FINE] choose(-100, 100) = 63
+[FINE] choose(-100, 100) = -81
+3b455fa93431af9d-1-ac-0-0 recieved 1
+[FINE] choose(-100, 100) = 23
+[FINE] choose(-100, 100) = 38
+[FINE] choose(-100, 100) = 16
+[FINE] choose(-100, 100) = 93
+[FINE] choose(-100, 100) = -47
+[FINE] choose(-100, 100) = 26
+3b455fa93431af9d-1-ac-0-2 recieved 1
+[FINE] choose(-100, 100) = 97
+[FINE] choose(-100, 100) = 58
+3b455fa93431af9d-1-ac-1-0 recieved 1
+3b455fa93431af9d-1-ac-1-1 recieved 0
+[FINE] choose(-100, 100) = 89
+[FINE] choose(-100, 100) = -3
+3b455fa93431af9d-1-ac-1-2 recieved 0
+[FINE] choose(-100, 100) = -40
+[FINE] House$Thermometer-10: Executing transition connect...
+[FINE] choose(-100, 100) = -48
+[FINE] choose(-100, 100) = 64
+[FINE] choose(-100, 100) = -56
+3b455fa93431af9d-1-ac-1-3 recieved 0
+[FINE] choose(-100, 100) = -5
+[FINE] choose(-100, 100) = -25
+3b455fa93431af9d-1-ac-2-0 recieved 0
+[FINE] choose(-100, 100) = -4
+[FINE] choose(-100, 100) = -78
+[FINE] choose(-100, 100) = -98
+[FINE] choose(-100, 100) = -2
+[FINE] choose(-100, 100) = 8
+[FINE] choose(-100, 100) = -92
+[FINE] choose(-100, 100) = -69
+3b455fa93431af9d-1-ac-2-2 recieved 1
+3b455fa93431af9d-1-ac-3-0 recieved 1
+3b455fa93431af9d-1-ac-3-3 recieved 1
+[FINE] choose(-100, 100) = -43
+[FINE] choose(-100, 100) = -37
+[FINE] choose(-100, 100) = -54
+[FINE] choose(-100, 100) = 24
+[FINE] choose(-100, 100) = 3
+[FINE] choose(-100, 100) = -9
+[FINE] choose(-100, 100) = 60
+[FINE] choose(-100, 100) = -96
+[FINE] House-1: Executing transition run...
+[FINE] Precondition violated, backtracking to standby.
+[FINE] House$Controller-1: Executing transition set temperature...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Controller-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$TemperatureManager-1: Executing transition set +...
+[FINE] Precondition violated, backtracking to 0.
+[FINE] House$TemperatureManager-1: Executing transition set 0...
+[FINE] Precondition violated, backtracking to 0.
+[FINE] House$TemperatureManager-1: Executing transition set -...
+[FINE] Precondition violated, backtracking to 0.
+[FINE] House$TemperatureManager-1: Executing transition end...
+[FINE] Precondition violated, backtracking to 0.
+[FINE] House$Thermometer-1: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-1: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-2: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-2: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-2: Executing transition connect...
+[FINE] choose(-100, 100) = 54
+[FINE] choose(-100, 100) = 89
+[FINE] choose(-100, 100) = -95
+[FINE] choose(-100, 100) = 74
+[FINE] choose(-100, 100) = 0
+[FINE] choose(-100, 100) = -45
+[FINE] choose(-100, 100) = 60
+[FINE] choose(-100, 100) = -39
+[FINE] choose(-100, 100) = -50
+[FINE] choose(-100, 100) = 79
+[FINE] choose(-100, 100) = 66
+[FINE] choose(-100, 100) = -75
+[FINE] choose(-100, 100) = 82
+[FINE] choose(-100, 100) = -18
+[FINE] choose(-100, 100) = -17
+[FINE] choose(-100, 100) = 92
+[FINE] choose(-100, 100) = 12
+[FINE] choose(-100, 100) = 64
+[FINE] choose(-100, 100) = 70
+[FINE] choose(-100, 100) = -95
+[FINE] House$Thermometer-12: Executing transition connect...
+[FINE] choose(-100, 100) = -67
+[FINE] choose(-100, 100) = -25
+[FINE] choose(-100, 100) = 48
+[FINE] choose(-100, 100) = -91
+[FINE] choose(-100, 100) = 71
+[FINE] choose(-100, 100) = 26
+[FINE] choose(-100, 100) = 8
+[FINE] choose(-100, 100) = 42
+3b455fa93431af9d-0-ac-0-0 recieved -1
+3b455fa93431af9d-0-ac-0-2 recieved 1
+[FINE] choose(-100, 100) = -61
+[FINE] choose(-100, 100) = -1
+[FINE] choose(-100, 100) = -33
+[FINE] choose(-100, 100) = 13
+3b455fa93431af9d-0-ac-0-1 recieved 0
+3b455fa93431af9d-0-ac-1-0 recieved 1
+3b455fa93431af9d-0-ac-1-1 recieved -1
+3b455fa93431af9d-0-ac-1-2 recieved 0
+[FINE] choose(-100, 100) = -47
+[FINE] choose(-100, 100) = -2
+[FINE] choose(-100, 100) = -3
+[FINE] choose(-100, 100) = -30
+[FINE] choose(-100, 100) = -63
+[FINE] choose(-100, 100) = 6
+3b455fa93431af9d-0-ac-1-3 recieved 0
+[FINE] House$Thermometer-6: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-6: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-5: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-6: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-5: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+3b455fa93431af9d-0-ac-2-0 recieved 0
+[FINE] House$AirConditioner-6: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-6: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-6: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-5: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-5: Executing transition connect...
+[FINE] choose(-100, 100) = -23
+[FINE] choose(-100, 100) = 68
+[FINE] choose(-100, 100) = 28
+[FINE] choose(-100, 100) = 39
+[FINE] choose(-100, 100) = 73
+[FINE] choose(-100, 100) = -50
+[FINE] choose(-100, 100) = -81
+[FINE] choose(-100, 100) = 17
+3b455fa93431af9d-0-ac-2-2 recieved 1
+[FINE] choose(-100, 100) = 69
+[FINE] choose(-100, 100) = -82
+[FINE] choose(-100, 100) = 2
+[FINE] choose(-100, 100) = 51
+[FINE] choose(-100, 100) = -96
+3b455fa93431af9d-0-ac-3-0 recieved 1
+[FINE] choose(-100, 100) = 47
+3b455fa93431af9d-0-ac-3-3 recieved 1
+[FINE] choose(-100, 100) = 41
+[FINE] choose(-100, 100) = 25
+[FINE] choose(-100, 100) = -60
+[FINE] choose(-100, 100) = -31
+[FINE] choose(-100, 100) = -1
+[FINE] choose(-100, 100) = -64
+[FINE] choose(-100, 100) = -94
+[FINE] choose(-100, 100) = 59
+[FINE] choose(-100, 100) = -54
+[FINE] choose(-100, 100) = -36
+[FINE] choose(-100, 100) = 42
+[FINE] choose(-100, 100) = 41
+[FINE] choose(-100, 100) = -36
+[FINE] choose(-100, 100) = 67
+[FINE] choose(-100, 100) = -22
+[FINE] choose(-100, 100) = 6
+[FINE] choose(-100, 100) = 27
+[FINE] choose(-100, 100) = -44
+[FINE] choose(-100, 100) = -19
+[FINE] choose(-100, 100) = -37
+[FINE] House$AirConditioner-7: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-6: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-8: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-6: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-8: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-6: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-9: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-8: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-9: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-6: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-9: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-5: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-9: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-6: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-9: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-5: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-6: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-9: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-5: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-5: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-10: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-5: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-10: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-5: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-4: Executing transition connect...
+[FINE] choose(-100, 100) = 78
+[FINE] choose(-100, 100) = -67
+[FINE] choose(-100, 100) = -85
+[FINE] choose(-100, 100) = 52
+[FINE] choose(-100, 100) = 69
+[FINE] choose(-100, 100) = -89
+[FINE] choose(-100, 100) = 38
+[FINE] choose(-100, 100) = -87
+[FINE] choose(-100, 100) = -90
+[FINE] choose(-100, 100) = 80
+[FINE] choose(-100, 100) = -62
+[FINE] choose(-100, 100) = 70
+[FINE] choose(-100, 100) = -9
+[FINE] choose(-100, 100) = 38
+[FINE] choose(-100, 100) = 2
+[FINE] choose(-100, 100) = 84
+[FINE] choose(-100, 100) = 85
+3b455fa93431af9d-1-ac-0-0 recieved -1
+[FINE] choose(-100, 100) = -24
+[FINE] choose(-100, 100) = 47
+[FINE] choose(-100, 100) = -30
+[FINE] choose(-100, 100) = -99
+[FINE] choose(-100, 100) = 46
+[FINE] choose(-100, 100) = 73
+3b455fa93431af9d-1-ac-0-1 recieved 0
+[FINE] choose(-100, 100) = 13
+[FINE] choose(-100, 100) = -41
+[FINE] choose(-100, 100) = 71
+[FINE] choose(-100, 100) = -81
+[FINE] choose(-100, 100) = -21
+[FINE] choose(-100, 100) = -54
+3b455fa93431af9d-1-ac-0-2 recieved 1
+[FINE] choose(-100, 100) = 91
+3b455fa93431af9d-1-ac-1-0 recieved 1
+3b455fa93431af9d-1-ac-1-1 recieved 0
+[FINE] choose(-100, 100) = -13
+[FINE] choose(-100, 100) = -8
+[FINE] choose(-100, 100) = -7
+[FINE] choose(-100, 100) = 65
+[FINE] choose(-100, 100) = -51
+[FINE] choose(-100, 100) = -9
+[FINE] choose(-100, 100) = -47
+[FINE] choose(-100, 100) = 65
+[FINE] choose(-100, 100) = 47
+3b455fa93431af9d-1-ac-1-2 recieved 0
+[FINE] choose(-100, 100) = 79
+[FINE] choose(-100, 100) = 32
+[FINE] choose(-100, 100) = -68
+[FINE] choose(-100, 100) = -100
+[FINE] choose(-100, 100) = 85
+[FINE] choose(-100, 100) = -20
+3b455fa93431af9d-1-ac-1-3 recieved 0
+[FINE] choose(-100, 100) = 95
+[FINE] choose(-100, 100) = 19
+[FINE] choose(-100, 100) = -99
+[FINE] choose(-100, 100) = -20
+[FINE] choose(-100, 100) = -18
+[FINE] House$AirConditioner-15: Executing transition connect...
+[FINE] choose(-100, 100) = 41
+[FINE] choose(-100, 100) = 89
+3b455fa93431af9d-1-ac-2-0 recieved 0
+[FINE] choose(-100, 100) = -5
+[FINE] choose(-100, 100) = -70
+[FINE] choose(-100, 100) = 28
+[FINE] choose(-100, 100) = -84
+[FINE] choose(-100, 100) = 24
+[FINE] choose(-100, 100) = 84
+[FINE] choose(-100, 100) = -16
+[FINE] choose(-100, 100) = 77
+[FINE] choose(-100, 100) = -90
+3b455fa93431af9d-1-ac-2-2 recieved 1
+[FINE] choose(-100, 100) = 72
+[FINE] choose(-100, 100) = -95
+[FINE] choose(-100, 100) = -96
+[FINE] choose(-100, 100) = -40
+[FINE] choose(-100, 100) = 71
+[FINE] choose(-100, 100) = 17
+3b455fa93431af9d-1-ac-3-0 recieved 1
+[FINE] House$Thermometer-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-1: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-1: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-2: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-2: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-2: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-2: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-2: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-2: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-1: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-1: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-3: Executing transition connect...
+[FINE] choose(-100, 100) = -89
+[FINE] choose(-100, 100) = 6
+[FINE] choose(-100, 100) = -52
+[FINE] choose(-100, 100) = -86
+[FINE] choose(-100, 100) = -11
+3b455fa93431af9d-1-ac-3-3 recieved 1
+[FINE] choose(-100, 100) = -37
+[FINE] choose(-100, 100) = 5
+[FINE] choose(-100, 100) = -75
+[FINE] choose(-100, 100) = 43
+[FINE] choose(-100, 100) = 24
+[FINE] choose(-100, 100) = -100
+[FINE] choose(-100, 100) = 33
+[FINE] choose(-100, 100) = -29
+[FINE] choose(-100, 100) = -61
+[FINE] choose(-100, 100) = -55
+[FINE] choose(-100, 100) = -76
+[FINE] choose(-100, 100) = -30
+[FINE] choose(-100, 100) = 21
+[FINE] choose(-100, 100) = -32
+[FINE] choose(-100, 100) = 70
+[FINE] choose(-100, 100) = -97
+[FINE] choose(-100, 100) = 9
+[FINE] choose(-100, 100) = 71
+[FINE] choose(-100, 100) = 70
+[FINE] choose(-100, 100) = 62
+[FINE] choose(-100, 100) = 76
+[FINE] choose(-100, 100) = 35
+[FINE] House$Thermometer-10: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-10: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-9: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-9: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-10: Executing transition connect...
+[FINE] choose(-100, 100) = -29
+[FINE] choose(-100, 100) = 71
+[FINE] choose(-100, 100) = -90
+[FINE] choose(-100, 100) = -38
+[FINE] choose(-100, 100) = 57
+[FINE] choose(-100, 100) = 65
+[FINE] choose(-100, 100) = 20
+[FINE] choose(-100, 100) = 62
+[FINE] choose(-100, 100) = 47
+[FINE] choose(-100, 100) = 50
+[FINE] choose(-100, 100) = -21
+[FINE] choose(-100, 100) = 5
+[FINE] choose(-100, 100) = -84
+[FINE] choose(-100, 100) = 69
+[FINE] choose(-100, 100) = -56
+[FINE] choose(-100, 100) = 59
+3b455fa93431af9d-0-ac-0-0 recieved 1
+[FINE] choose(-100, 100) = -87
+[FINE] choose(-100, 100) = -97
+[FINE] choose(-100, 100) = -15
+[FINE] choose(-100, 100) = -4
+[FINE] choose(-100, 100) = -62
+[FINE] choose(-100, 100) = -31
+[FINE] choose(-100, 100) = 6
+[FINE] choose(-100, 100) = 65
+[FINE] choose(-100, 100) = -20
+[FINE] choose(-100, 100) = 41
+[FINE] choose(-100, 100) = -45
+[FINE] choose(-100, 100) = 9
+[FINE] choose(-100, 100) = 6
+[FINE] choose(-100, 100) = -87
+3b455fa93431af9d-0-ac-0-1 recieved -1
+[FINE] choose(-100, 100) = 47
+[FINE] choose(-100, 100) = 55
+[FINE] choose(-100, 100) = 13
+[FINE] choose(-100, 100) = -20
+[FINE] choose(-100, 100) = 32
+[FINE] choose(-100, 100) = 95
+[FINE] choose(-100, 100) = 56
+[FINE] choose(-100, 100) = 99
+[FINE] choose(-100, 100) = -24
+[FINE] choose(-100, 100) = -65
+[FINE] choose(-100, 100) = 30
+[FINE] choose(-100, 100) = -18
+[FINE] choose(-100, 100) = 26
+3b455fa93431af9d-0-ac-0-2 recieved 1
+[FINE] choose(-100, 100) = 54
+[FINE] choose(-100, 100) = 55
+[FINE] choose(-100, 100) = -81
+[FINE] choose(-100, 100) = -88
+[FINE] choose(-100, 100) = 27
+[FINE] choose(-100, 100) = 88
+[FINE] choose(-100, 100) = 12
+[FINE] choose(-100, 100) = 69
+[FINE] choose(-100, 100) = 55
+[FINE] choose(-100, 100) = -70
+[FINE] choose(-100, 100) = -85
+[FINE] choose(-100, 100) = -48
+[FINE] choose(-100, 100) = -41
+[FINE] choose(-100, 100) = 84
+[FINE] choose(-100, 100) = -56
+[FINE] choose(-100, 100) = -32
+[FINE] choose(-100, 100) = -89
+3b455fa93431af9d-0-ac-0-3 recieved 0
+3b455fa93431af9d-0-ac-1-0 recieved -1
+[FINE] House$AirConditioner-13: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-13: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-13: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-13: Executing transition connect...
+[FINE] choose(-100, 100) = -83
+[FINE] choose(-100, 100) = 17
+[FINE] choose(-100, 100) = -95
+[FINE] choose(-100, 100) = 2
+3b455fa93431af9d-0-ac-1-1 recieved 0
+3b455fa93431af9d-0-ac-1-2 recieved 0
+[FINE] choose(-100, 100) = 1
+[FINE] choose(-100, 100) = -95
+[FINE] choose(-100, 100) = 94
+3b455fa93431af9d-0-ac-1-3 recieved 0
+[FINE] choose(-100, 100) = -20
+3b455fa93431af9d-0-ac-2-2 recieved 1
+3b455fa93431af9d-0-ac-2-0 recieved 0
+[FINE] choose(-100, 100) = 91
+[FINE] choose(-100, 100) = -15
+[FINE] choose(-100, 100) = 2
+3b455fa93431af9d-0-ac-2-1 recieved 0
+[FINE] choose(-100, 100) = -78
+[FINE] choose(-100, 100) = 95
+3b455fa93431af9d-0-ac-3-0 recieved 1
+3b455fa93431af9d-0-ac-3-3 recieved 1
+3b455fa93431af9d-0-ac-3-2 recieved -1
+[FINE] choose(-100, 100) = 25
+[FINE] choose(-100, 100) = -64
+[FINE] choose(-100, 100) = -80
+[FINE] choose(-100, 100) = 21
+[FINE] choose(-100, 100) = 27
+[FINE] choose(-100, 100) = -22
+[FINE] choose(-100, 100) = 2
+[FINE] choose(-100, 100) = 15
+[FINE] choose(-100, 100) = 33
+[FINE] House$Thermometer-3: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-3: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-2: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-3: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-3: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-4: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-3: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-4: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-2: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-4: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-4: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-4: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-2: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-3: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-4: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-5: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-2: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-5: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-5: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-5: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-5: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-2: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-6: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-6: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-6: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-6: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-5: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-6: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] choose(-100, 100) = -82
+[FINE] choose(-100, 100) = -49
+[FINE] choose(-100, 100) = -11
+[FINE] House$Thermometer-15: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-6: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-2: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-1: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-1: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-8: Executing transition restore...
+[FINE] choose(-100, 100) = -11
+[FINE] choose(-100, 100) = -54
+[FINE] choose(-100, 100) = 58
+[FINE] choose(-100, 100) = -91
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-8: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-1: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-9: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-9: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-9: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-9: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-9: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-1: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-8: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$TemperatureManager-1: Executing transition end...
+[FINE] Precondition violated, backtracking to 0.
+[FINE] House$AirConditioner-9: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-10: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-10: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-10: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-10: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-10: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$TemperatureManager-1: Executing transition set -...
+[FINE] Precondition violated, backtracking to 0.
+[FINE] House$AirConditioner-10: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-11: Executing transition connect...
+[FINE] choose(-100, 100) = -11
+[FINE] choose(-100, 100) = -54
+[FINE] choose(-100, 100) = 58
+[FINE] choose(-100, 100) = -91
+[FINE] choose(-100, 100) = 50
+3b455fa93431af9d-1-ac-0-0 recieved 0
+3b455fa93431af9d-1-ac-0-1 recieved 0
+[FINE] choose(-100, 100) = -9
+[FINE] choose(-100, 100) = -100
+[FINE] choose(-100, 100) = -94
+[FINE] choose(-100, 100) = 4
+[FINE] choose(-100, 100) = -47
+3b455fa93431af9d-1-ac-0-2 recieved -1
+3b455fa93431af9d-1-ac-0-3 recieved 0
+[FINE] choose(-100, 100) = -10
+[FINE] choose(-100, 100) = -17
+[FINE] choose(-100, 100) = -76
+[FINE] choose(-100, 100) = 59
+[FINE] choose(-100, 100) = -53
+[FINE] choose(-100, 100) = 11
+[FINE] choose(-100, 100) = -67
+[FINE] choose(-100, 100) = 20
+[FINE] choose(-100, 100) = -72
+[FINE] choose(-100, 100) = 25
+[FINE] choose(-100, 100) = -45
+[FINE] choose(-100, 100) = -56
+3b455fa93431af9d-1-ac-1-0 recieved -1
+3b455fa93431af9d-1-ac-1-2 recieved -1
+3b455fa93431af9d-1-ac-1-1 recieved -1
+[FINE] choose(-100, 100) = 28
+[FINE] choose(-100, 100) = 2
+[FINE] choose(-100, 100) = 53
+[FINE] choose(-100, 100) = -20
+[FINE] choose(-100, 100) = 84
+[FINE] choose(-100, 100) = -55
+[FINE] choose(-100, 100) = -95
+[FINE] choose(-100, 100) = 87
+3b455fa93431af9d-1-ac-1-3 recieved -1
+[FINE] choose(-100, 100) = 99
+[FINE] choose(-100, 100) = 13
+[FINE] choose(-100, 100) = -55
+[FINE] choose(-100, 100) = 57
+[FINE] choose(-100, 100) = 0
+[FINE] choose(-100, 100) = -83
+3b455fa93431af9d-1-ac-2-0 recieved -1
+[FINE] choose(-100, 100) = 60
+[FINE] choose(-100, 100) = 31
+[FINE] choose(-100, 100) = 69
+[FINE] choose(-100, 100) = 12
+[FINE] choose(-100, 100) = 67
+[FINE] choose(-100, 100) = 32
+[FINE] choose(-100, 100) = -4
+[FINE] choose(-100, 100) = 58
+[FINE] choose(-100, 100) = -86
+[FINE] choose(-100, 100) = 52
+[FINE] choose(-100, 100) = 53
+[FINE] choose(-100, 100) = -38
+3b455fa93431af9d-1-ac-2-2 recieved 1
+3b455fa93431af9d-1-ac-2-1 recieved -1
+[FINE] choose(-100, 100) = 0
+[FINE] choose(-100, 100) = 24
+[FINE] choose(-100, 100) = -10
+[FINE] House$AirConditioner-12: Executing transition connect...
+[FINE] choose(-100, 100) = -40
+[FINE] choose(-100, 100) = 61
+3b455fa93431af9d-1-ac-3-0 recieved 1
+3b455fa93431af9d-1-ac-3-2 recieved -1
+[FINE] choose(-100, 100) = -69
+3b455fa93431af9d-1-ac-3-3 recieved 1
+[FINE] House$Thermometer-7: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-6: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-6: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-6: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-6: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-8: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] choose(-100, 100) = 21
+[FINE] choose(-100, 100) = -74
+[FINE] choose(-100, 100) = 62
+[FINE] House$Thermometer-6: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-5: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-8: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-5: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-9: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-9: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-5: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-9: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-5: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-9: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-5: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-5: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-6: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-4: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-9: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-8: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-9: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-4: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-10: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-10: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-4: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-10: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-4: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-10: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-10: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-4: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-10: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-3: Executing transition end...
+[FINE] choose(-100, 100) = 18
+[FINE] Precondition violated, backtracking to run.
+[FINE] choose(-100, 100) = -39
+[FINE] House$Thermometer-3: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-2: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-3: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-3: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-3: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-3: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-2: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-11: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-2: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-11: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-4: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-11: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-11: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-2: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-11: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-2: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-11: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-12: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-12: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-1: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-12: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-2: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-1: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-12: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-12: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-12: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-13: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-1: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-13: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-1: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-13: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-13: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$TemperatureManager-1: Executing transition end...
+[FINE] Precondition violated, backtracking to 0.
+[FINE] House$AirConditioner-13: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-13: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$TemperatureManager-1: Executing transition set -...
+[FINE] Precondition violated, backtracking to 0.
+[FINE] House$Thermometer-14: Executing transition connect...
+[FINE] choose(-100, 100) = 21
+[FINE] choose(-100, 100) = -51
+[FINE] choose(-100, 100) = 54
+[FINE] choose(-100, 100) = 88
+[FINE] choose(-100, 100) = 86
+[FINE] choose(-100, 100) = -54
+[FINE] choose(-100, 100) = 24
+[FINE] choose(-100, 100) = 32
+[FINE] choose(-100, 100) = 77
+[FINE] choose(-100, 100) = -61
+[FINE] choose(-100, 100) = -34
+[FINE] choose(-100, 100) = -92
+[FINE] choose(-100, 100) = -99
+[FINE] choose(-100, 100) = 16
+[FINE] choose(-100, 100) = 24
+[FINE] choose(-100, 100) = 70
+[FINE] choose(-100, 100) = 21
+[FINE] choose(-100, 100) = 78
+[FINE] choose(-100, 100) = 62
+[FINE] choose(-100, 100) = 74
+[FINE] choose(-100, 100) = -64
+[FINE] choose(-100, 100) = 73
+[FINE] House$Thermometer-15: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-15: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-14: Executing transition connect...
+[FINE] choose(-100, 100) = -8
+[FINE] choose(-100, 100) = 56
+[FINE] choose(-100, 100) = 19
+[FINE] choose(-100, 100) = 14
+[FINE] choose(-100, 100) = -54
+[FINE] choose(-100, 100) = -51
+[FINE] choose(-100, 100) = 83
+3b455fa93431af9d-0-ac-0-0 recieved -1
+[FINE] choose(-100, 100) = -4
+[FINE] choose(-100, 100) = -52
+[FINE] choose(-100, 100) = -12
+[FINE] choose(-100, 100) = -28
+[FINE] choose(-100, 100) = -2
+[FINE] choose(-100, 100) = 29
+[FINE] choose(-100, 100) = 39
+[FINE] choose(-100, 100) = 17
+[FINE] choose(-100, 100) = -20
+[FINE] choose(-100, 100) = -75
+[FINE] choose(-100, 100) = -34
+[FINE] choose(-100, 100) = 79
+[FINE] House$TemperatureManager-1: Executing transition set -...
+[FINE] Precondition violated, backtracking to 0.
+[FINE] House$TemperatureManager-1: Executing transition end...
+[FINE] Precondition violated, backtracking to 0.
+[FINE] House$Thermometer-1: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-1: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-2: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-2: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-2: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-1: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-2: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-2: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-1: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-2: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-3: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$TemperatureManager-1: Executing transition set 0...
+[FINE] Precondition violated, backtracking to 0.
+[FINE] House$Thermometer-3: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-3: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-3: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-3: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-4: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-4: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-4: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-4: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-4: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-5: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-5: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-4: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-5: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-3: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-5: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-5: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-5: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$TemperatureManager-1: Executing transition set +...
+[FINE] Precondition violated, backtracking to 0.
+[FINE] House$Thermometer-6: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-6: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-6: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] choose(-100, 100) = 99
+[FINE] choose(-100, 100) = 41
+[FINE] choose(-100, 100) = 36
+[FINE] choose(-100, 100) = 17
+[FINE] choose(-100, 100) = -83
+[FINE] choose(-100, 100) = 88
+3b455fa93431af9d-0-ac-0-1 recieved 0
+[FINE] House$AirConditioner-8: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-8: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-9: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-9: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-9: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-9: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-9: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-10: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-9: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-10: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-10: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-10: Executing transition restore...
+[FINE] choose(-100, 100) = -6
+[FINE] choose(-100, 100) = 68
+[FINE] choose(-100, 100) = 10
+[FINE] choose(-100, 100) = 86
+[FINE] choose(-100, 100) = -94
+3b455fa93431af9d-0-ac-0-2 recieved -1
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-8: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-10: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-10: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition end...
+3b455fa93431af9d-0-ac-0-3 recieved -1
+[FINE] choose(-100, 100) = -6
+3b455fa93431af9d-0-ac-1-0 recieved 0
+[FINE] Precondition violated, backtracking to run.
+[FINE] choose(-100, 100) = 68
+[FINE] House$Thermometer-11: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-11: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-11: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-11: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] choose(-100, 100) = 10
+[FINE] choose(-100, 100) = 68
+[FINE] choose(-100, 100) = -6
+3b455fa93431af9d-0-ac-1-1 recieved 0
+[FINE] choose(-100, 100) = -78
+[FINE] choose(-100, 100) = 86
+[FINE] House$AirConditioner-14: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-14: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-14: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-14: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-13: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-15: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-14: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-15: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-13: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-13: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-14: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-13: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-13: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-15: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-12: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-12: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-15: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-12: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-12: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-15: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] choose(-100, 100) = 10
+[FINE] choose(-100, 100) = 86
+[FINE] choose(-100, 100) = -94
+[FINE] choose(-100, 100) = -63
+[FINE] choose(-100, 100) = -99
+[FINE] choose(-100, 100) = -75
+3b455fa93431af9d-0-ac-1-2 recieved 0
+[FINE] House$Thermometer-13: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-15: Executing transition end...
+[FINE] choose(-100, 100) = -94
+[FINE] choose(-100, 100) = 86
+[FINE] choose(-100, 100) = 10
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-11: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-11: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-12: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-12: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-16: Executing transition connect...
+[FINE] choose(-100, 100) = 10
+[FINE] choose(-100, 100) = 86
+[FINE] choose(-100, 100) = -94
+[FINE] choose(-100, 100) = -63
+[FINE] choose(-100, 100) = -99
+[FINE] choose(-100, 100) = -75
+[FINE] choose(-100, 100) = -18
+[FINE] choose(-100, 100) = 21
+[FINE] choose(-100, 100) = 0
+3b455fa93431af9d-0-ac-1-3 recieved -1
+[FINE] choose(-100, 100) = 35
+[FINE] choose(-100, 100) = -31
+[FINE] choose(-100, 100) = -38
+[FINE] choose(-100, 100) = -56
+[FINE] choose(-100, 100) = -56
+3b455fa93431af9d-0-ac-2-0 recieved 0
+[FINE] choose(-100, 100) = 70
+[FINE] choose(-100, 100) = -96
+[FINE] choose(-100, 100) = -16
+[FINE] choose(-100, 100) = 3
+[FINE] choose(-100, 100) = -48
+[FINE] choose(-100, 100) = 37
+[FINE] choose(-100, 100) = 83
+[FINE] choose(-100, 100) = -12
+[FINE] choose(-100, 100) = 25
+[FINE] choose(-100, 100) = 83
+[FINE] choose(-100, 100) = 96
+[FINE] choose(-100, 100) = 95
+[FINE] choose(-100, 100) = -27
+3b455fa93431af9d-0-ac-2-1 recieved -1
+[FINE] choose(-100, 100) = -98
+[FINE] choose(-100, 100) = -15
+[FINE] choose(-100, 100) = -91
+[FINE] choose(-100, 100) = 3
+[FINE] choose(-100, 100) = -81
+[FINE] choose(-100, 100) = 14
+3b455fa93431af9d-0-ac-2-2 recieved -1
+[FINE] choose(-100, 100) = 28
+[FINE] choose(-100, 100) = -69
+[FINE] choose(-100, 100) = -86
+[FINE] choose(-100, 100) = 25
+[FINE] choose(-100, 100) = 75
+[FINE] choose(-100, 100) = 83
+[FINE] choose(-100, 100) = -68
+3b455fa93431af9d-0-ac-2-3 recieved -1
+[FINE] choose(-100, 100) = -65
+[FINE] choose(-100, 100) = -67
+[FINE] choose(-100, 100) = 21
+[FINE] choose(-100, 100) = 1
+[FINE] choose(-100, 100) = -41
+[FINE] choose(-100, 100) = -79
+[FINE] choose(-100, 100) = 30
+[FINE] choose(-100, 100) = -4
+[FINE] choose(-100, 100) = -29
+[FINE] choose(-100, 100) = -9
+[FINE] choose(-100, 100) = 23
+[FINE] choose(-100, 100) = 26
+[FINE] choose(-100, 100) = -3
+[FINE] choose(-100, 100) = -66
+[FINE] choose(-100, 100) = -72
+[FINE] choose(-100, 100) = -34
+[FINE] choose(-100, 100) = -47
+[FINE] choose(-100, 100) = -60
+3b455fa93431af9d-0-ac-3-0 recieved -1
+[FINE] choose(-100, 100) = 39
+[FINE] choose(-100, 100) = 56
+3b455fa93431af9d-0-ac-3-1 recieved 1
+[FINE] choose(-100, 100) = 80
+[FINE] choose(-100, 100) = 91
+[FINE] choose(-100, 100) = 27
+[FINE] choose(-100, 100) = -96
+[FINE] choose(-100, 100) = 94
+[FINE] choose(-100, 100) = -65
+[FINE] choose(-100, 100) = -25
+[FINE] choose(-100, 100) = 58
+[FINE] choose(-100, 100) = 45
+3b455fa93431af9d-0-ac-3-3 recieved 1
+[FINE] choose(-100, 100) = -45
+[FINE] choose(-100, 100) = 51
+3b455fa93431af9d-0-ac-3-2 recieved -1
+[FINE] choose(-100, 100) = 82
+[FINE] choose(-100, 100) = 15
+[FINE] choose(-100, 100) = -68
+[FINE] choose(-100, 100) = -29
+[FINE] choose(-100, 100) = 63
+[FINE] choose(-100, 100) = -89
+[FINE] choose(-100, 100) = 95
+[FINE] choose(-100, 100) = -22
+[FINE] House$AirConditioner-11: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-11: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-11: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-11: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-10: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-10: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-12: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-11: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-12: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-10: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-10: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-11: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-10: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-12: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-9: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-9: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-10: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-9: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-9: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-12: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-9: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-9: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-8: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-12: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-8: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-13: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] choose(-100, 100) = 29
+[FINE] choose(-100, 100) = 74
+[FINE] choose(-100, 100) = 47
+[FINE] choose(-100, 100) = 33
+[FINE] choose(-100, 100) = -37
+[FINE] choose(-100, 100) = -86
+[FINE] choose(-100, 100) = 46
+[FINE] choose(-100, 100) = -44
+[FINE] choose(-100, 100) = 69
+[FINE] choose(-100, 100) = 36
+[FINE] choose(-100, 100) = 29
+[FINE] choose(-100, 100) = -59
+[FINE] House$AirConditioner-3: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-3: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-4: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-4: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-3: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-4: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-3: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-4: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-4: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-3: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-4: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-5: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-3: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-2: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-5: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-5: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-2: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-5: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-6: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-5: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-6: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] choose(-100, 100) = -62
+[FINE] choose(-100, 100) = -22
+[FINE] choose(-100, 100) = 29
+[FINE] choose(-100, 100) = -58
+3b455fa93431af9d-1-ac-0-1 recieved 0
+[FINE] choose(-100, 100) = -16
+[FINE] choose(-100, 100) = 97
+[FINE] choose(-100, 100) = -45
+[FINE] choose(-100, 100) = 37
+[FINE] choose(-100, 100) = 96
+[FINE] choose(-100, 100) = 31
+3b455fa93431af9d-1-ac-0-0 recieved 0
+[FINE] House$AirConditioner-16: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-16: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-16: Executing transition end...
+3b455fa93431af9d-1-ac-1-0 recieved 0
+3b455fa93431af9d-1-ac-0-2 recieved 0
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-16: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-16: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+3b455fa93431af9d-1-ac-0-3 recieved 0
+[FINE] House$AirConditioner-15: Executing transition end...
+[FINE] choose(-100, 100) = 29
+[FINE] choose(-100, 100) = 57
+[FINE] choose(-100, 100) = -100
+[FINE] choose(-100, 100) = -75
+[FINE] Precondition violated, backtracking to run.
+[FINE] choose(-100, 100) = 29
+[FINE] choose(-100, 100) = 57
+[FINE] choose(-100, 100) = -100
+[FINE] choose(-100, 100) = -75
+[FINE] choose(-100, 100) = 57
+3b455fa93431af9d-1-ac-1-1 recieved 1
+[FINE] choose(-100, 100) = 62
+[FINE] House$AirConditioner-14: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-15: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-15: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-15: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-14: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-14: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+3b455fa93431af9d-1-ac-1-2 recieved 1
+[FINE] House$Thermometer-14: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-13: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-13: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-13: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-13: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-13: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-12: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-8: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-14: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] choose(-100, 100) = 46
+[FINE] choose(-100, 100) = 71
+[FINE] choose(-100, 100) = -19
+[FINE] choose(-100, 100) = 77
+[FINE] choose(-100, 100) = 14
+[FINE] choose(-100, 100) = 32
+[FINE] choose(-100, 100) = 89
+[FINE] choose(-100, 100) = 57
+[FINE] choose(-100, 100) = -75
+[FINE] choose(-100, 100) = -100
+[FINE] choose(-100, 100) = 57
+[FINE] choose(-100, 100) = 29
+3b455fa93431af9d-1-ac-1-3 recieved 1
+[FINE] House$Thermometer-7: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-6: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-6: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-14: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-6: Executing transition break...
+3b455fa93431af9d-1-ac-2-2 recieved -1
+3b455fa93431af9d-1-ac-2-0 recieved 0
+3b455fa93431af9d-1-ac-2-1 recieved 0
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-6: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-5: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-2: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-2: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-2: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-15: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-2: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-1: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-1: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-1: Executing transition restore...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-15: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+3b455fa93431af9d-1-ac-3-0 recieved -1
+[FINE] choose(-100, 100) = -75
+[FINE] choose(-100, 100) = -100
+[FINE] choose(-100, 100) = 57
+[FINE] choose(-100, 100) = 29
+3b455fa93431af9d-1-ac-2-3 recieved -1
+[FINE] House$Thermometer-1: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$TemperatureManager-1: Executing transition end...
+[FINE] Precondition violated, backtracking to 0.
+[FINE] House$TemperatureManager-1: Executing transition set -...
+[FINE] Precondition violated, backtracking to 0.
+[FINE] choose(-100, 100) = 62
+[FINE] choose(-100, 100) = 29
+[FINE] House$TemperatureManager-1: Executing transition set +...
+[FINE] Precondition violated, backtracking to 0.
+[FINE] House$TemperatureManager-1: Executing transition set 0...
+[FINE] Precondition violated, backtracking to 0.
+[FINE] House$Thermometer-16: Executing transition break...
+[FINE] Precondition violated, backtracking to run.
+[FINE] choose(-100, 100) = -100
+[FINE] choose(-100, 100) = -75
+[FINE] choose(-100, 100) = 57
+[FINE] choose(-100, 100) = 29
+[FINE] House$Controller-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Controller-1: Executing transition set temperature...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House-1: Executing transition run...
+3b455fa93431af9d-1-ac-3-3 recieved 1
+[FINE] House$Thermometer-12: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-12: Executing transition break...
+[FINE] choose(20, 50) = 30
+[FINE] House-1: Started staying for 300 ms.
+3b455fa93431af9d-1-ac-3-2 recieved 0
+3b455fa93431af9d-1-ac-3-1 recieved 0
+[FINE] House$TemperatureManager-1: Executing transition set +...
+[FINE] choose(20, 50) = 49
+[FINE] House$AirConditioner-12: Started staying for 30 ms.
+[FINE] House$AirConditioner-16: Executing transition restore...
+[FINE] choose(20, 50) = 31
+[FINE] House$TemperatureManager-1: Started staying for 49 ms.
+[FINE] House$AirConditioner-9: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-9: Executing transition restore...
+[FINE] choose(20, 50) = 44
+[FINE] House$AirConditioner-16: Started staying for 31 ms.
+[FINE] House$AirConditioner-6: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition restore...
+[FINE] choose(20, 50) = 29
+[FINE] House$AirConditioner-9: Started staying for 44 ms.
+[FINE] House$AirConditioner-7: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition restore...
+[FINE] choose(20, 50) = 32
+[FINE] House$Thermometer-7: Started staying for 29 ms.
+[FINE] choose(-100, 100) = 98
+[FINE] choose(-100, 100) = 12
+[FINE] choose(-100, 100) = -44
+[FINE] choose(-100, 100) = 87
+[FINE] choose(-100, 100) = -49
+[FINE] choose(-100, 100) = -45
+[FINE] choose(-100, 100) = -58
+[FINE] choose(-100, 100) = 71
+[FINE] choose(-100, 100) = 18
+[FINE] choose(-100, 100) = 24
+[FINE] House$Thermometer-3: Executing transition restore...
+[FINE] choose(20, 50) = 22
+[FINE] House$Thermometer-8: Started staying for 32 ms.
+[FINE] House$Thermometer-16: Executing transition restore...
+[FINE] choose(20, 50) = 32
+[FINE] House$Thermometer-3: Started staying for 22 ms.
+[FINE] House$AirConditioner-5: Executing transition restore...
+[FINE] choose(20, 50) = 22
+[FINE] House$Thermometer-16: Started staying for 32 ms.
+[FINE] House$AirConditioner-11: Executing transition restore...
+[FINE] choose(20, 50) = 30
+[FINE] House$AirConditioner-5: Started staying for 22 ms.
+[FINE] House$Thermometer-9: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-10: Executing transition restore...
+[FINE] choose(20, 50) = 45
+[FINE] House$AirConditioner-11: Started staying for 30 ms.
+[FINE] House$AirConditioner-10: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-10: Executing transition restore...
+[FINE] choose(20, 50) = 23
+[FINE] House$Thermometer-10: Started staying for 45 ms.
+[FINE] House$AirConditioner-8: Executing transition restore...
+[FINE] choose(20, 50) = 47
+[FINE] House$AirConditioner-10: Started staying for 23 ms.
+[FINE] House$AirConditioner-13: Executing transition restore...
+[FINE] choose(20, 50) = 41
+[FINE] House$AirConditioner-8: Started staying for 47 ms.
+[FINE] House$AirConditioner-12: Finished staying.
+[FINE] House$AirConditioner-12: Executing transition end...
+[FINE] Precondition violated, backtracking to broken.
+[FINE] House$AirConditioner-12: Executing transition restore...
+[FINE] choose(20, 50) = 42
+[FINE] House$AirConditioner-13: Started staying for 41 ms.
+[FINE] House$Thermometer-2: Executing transition restore...
+[FINE] choose(20, 50) = 36
+[FINE] House$AirConditioner-12: Started staying for 42 ms.
+[FINE] House$Thermometer-6: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-6: Executing transition restore...
+[FINE] choose(20, 50) = 39
+[FINE] House$Thermometer-2: Started staying for 36 ms.
+[FINE] House$Controller-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-1: Executing transition restore...
+[FINE] choose(20, 50) = 46
+[FINE] House$Thermometer-6: Started staying for 39 ms.
+[FINE] House$Thermometer-7: Finished staying.
+[FINE] House$AirConditioner-16: Finished staying.
+[FINE] House$AirConditioner-15: Executing transition restore...
+[FINE] choose(20, 50) = 30
+[FINE] House$Thermometer-1: Started staying for 46 ms.
+[FINE] House$Thermometer-7: Executing transition restore...
+[FINE] choose(20, 50) = 29
+[FINE] House$AirConditioner-15: Started staying for 30 ms.
+[FINE] House$Thermometer-15: Executing transition restore...
+[FINE] choose(20, 50) = 37
+[FINE] House$Thermometer-7: Started staying for 29 ms.
+[FINE] House$Thermometer-3: Finished staying.
+[FINE] choose(-100, 100) = 18
+[FINE] choose(-100, 100) = -34
+[FINE] choose(-100, 100) = -92
+[FINE] House$AirConditioner-2: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-3: Executing transition restore...
+[FINE] choose(20, 50) = 28
+[FINE] choose(-100, 100) = -34
+[FINE] House$AirConditioner-5: Finished staying.
+[FINE] choose(-100, 100) = -92
+[FINE] choose(-100, 100) = -89
+[FINE] choose(-100, 100) = -76
+[FINE] choose(-100, 100) = 48
+[FINE] choose(-100, 100) = 32
+[FINE] choose(-100, 100) = -26
+[FINE] choose(-100, 100) = 40
+[FINE] choose(-100, 100) = -42
+[FINE] House$AirConditioner-10: Finished staying.
+[FINE] House$AirConditioner-9: Finished staying.
+[FINE] House$TemperatureManager-1: Finished staying.
+[FINE] House$Thermometer-8: Finished staying.
+[FINE] House$Thermometer-15: Started staying for 37 ms.
+[FINE] House$AirConditioner-11: Finished staying.
+[FINE] House$Thermometer-16: Finished staying.
+[FINE] House$Thermometer-16: Executing transition restore...
+[FINE] choose(20, 50) = 27
+[FINE] House$AirConditioner-3: Started staying for 28 ms.
+[FINE] House$Thermometer-9: Executing transition restore...
+[FINE] choose(20, 50) = 43
+[FINE] House$Thermometer-16: Started staying for 27 ms.
+[FINE] House$AirConditioner-5: Executing transition restore...
+[FINE] choose(20, 50) = 46
+[FINE] House$Thermometer-9: Started staying for 43 ms.
+[FINE] House$Thermometer-2: Finished staying.
+[FINE] House$Thermometer-10: Finished staying.
+[FINE] House$AirConditioner-15: Finished staying.
+[FINE] House$Thermometer-5: Executing transition restore...
+[FINE] choose(20, 50) = 34
+[FINE] House$AirConditioner-13: Finished staying.
+[FINE] House$AirConditioner-5: Started staying for 46 ms.
+[FINE] House$AirConditioner-12: Finished staying.
+[FINE] House$AirConditioner-8: Finished staying.
+[FINE] House$Thermometer-7: Finished staying.
+[FINE] House$Thermometer-6: Finished staying.
+[FINE] House$TemperatureManager-1: Executing transition set +...
+[FINE] choose(20, 50) = 30
+[FINE] House$Thermometer-5: Started staying for 34 ms.
+[FINE] choose(-100, 100) = -74
+[FINE] choose(-100, 100) = 17
+[FINE] choose(-100, 100) = 87
+[FINE] choose(-100, 100) = 77
+[FINE] choose(-100, 100) = 49
+[FINE] choose(-100, 100) = 44
+[FINE] choose(-100, 100) = 94
+[FINE] choose(-100, 100) = 33
+[FINE] House$Thermometer-1: Finished staying.
+[FINE] choose(-100, 100) = -69
+[FINE] choose(-100, 100) = 35
+[FINE] House$AirConditioner-7: Executing transition end...
+[FINE] House$AirConditioner-3: Finished staying.
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-8: Executing transition restore...
+[FINE] choose(20, 50) = 25
+[FINE] House$Thermometer-15: Finished staying.
+[FINE] House$TemperatureManager-1: Started staying for 30 ms.
+[FINE] House$Thermometer-16: Finished staying.
+[FINE] House$AirConditioner-1: Executing transition restore...
+[FINE] choose(20, 50) = 21
+[FINE] House$Thermometer-8: Started staying for 25 ms.
+[FINE] House$Thermometer-16: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-16: Executing transition restore...
+[FINE] choose(20, 50) = 38
+[FINE] House$AirConditioner-1: Started staying for 21 ms.
+[FINE] House$AirConditioner-3: Executing transition restore...
+[FINE] choose(20, 50) = 38
+[FINE] House$Thermometer-16: Started staying for 38 ms.
+[FINE] House$AirConditioner-13: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-13: Executing transition restore...
+[FINE] choose(20, 50) = 34
+[FINE] House$AirConditioner-3: Started staying for 38 ms.
+3b455fa93431af9d-0-ac-0-0 recieved 1
+[FINE] House$Thermometer-5: Finished staying.
+[FINE] House$Thermometer-9: Finished staying.
+[FINE] choose(-100, 100) = 12
+[FINE] choose(-100, 100) = -76
+[FINE] choose(-100, 100) = 82
+[FINE] choose(-100, 100) = 86
+[FINE] choose(-100, 100) = 0
+[FINE] choose(-100, 100) = -50
+[FINE] choose(-100, 100) = -9
+[FINE] choose(-100, 100) = 64
+[FINE] House$TemperatureManager-1: Finished staying.
+[FINE] House$AirConditioner-5: Finished staying.
+[FINE] choose(-100, 100) = 77
+[FINE] choose(-100, 100) = 85
+[FINE] House$Thermometer-8: Finished staying.
+[FINE] House$Thermometer-9: Executing transition restore...
+[FINE] choose(20, 50) = 27
+[FINE] House$AirConditioner-13: Started staying for 34 ms.
+[FINE] House$Thermometer-5: Executing transition restore...
+[FINE] choose(20, 50) = 46
+[FINE] House$AirConditioner-1: Finished staying.
+[FINE] House$Thermometer-9: Started staying for 27 ms.
+3b455fa93431af9d-0-ac-0-1 recieved 1
+[FINE] House$Thermometer-3: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-3: Executing transition restore...
+[FINE] choose(20, 50) = 47
+[FINE] House$Thermometer-5: Started staying for 46 ms.
+[FINE] House$AirConditioner-8: Executing transition break...
+[FINE] choose(20, 50) = 28
+[FINE] House$Thermometer-3: Started staying for 47 ms.
+[FINE] House$Thermometer-6: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-6: Executing transition restore...
+[FINE] choose(20, 50) = 24
+[FINE] House$AirConditioner-8: Started staying for 28 ms.
+[FINE] House$Thermometer-16: Finished staying.
+[FINE] choose(-100, 100) = -74
+[FINE] choose(-100, 100) = -69
+[FINE] choose(-100, 100) = -54
+[FINE] House$AirConditioner-3: Finished staying.
+3b455fa93431af9d-0-ac-1-0 recieved 0
+3b455fa93431af9d-0-ac-0-2 recieved 1
+[FINE] choose(-100, 100) = -11
+[FINE] choose(-100, 100) = 85
+[FINE] choose(-100, 100) = -71
+[FINE] choose(-100, 100) = -50
+[FINE] choose(-100, 100) = 18
+[FINE] choose(-100, 100) = -73
+[FINE] choose(-100, 100) = -41
+[FINE] choose(-100, 100) = -30
+[FINE] House$Thermometer-9: Finished staying.
+[FINE] choose(-100, 100) = -42
+[FINE] House$Thermometer-11: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-11: Executing transition break...
+[FINE] choose(20, 50) = 39
+[FINE] House$Thermometer-6: Started staying for 24 ms.
+[FINE] House$AirConditioner-13: Finished staying.
+3b455fa93431af9d-0-ac-1-2 recieved 0
+3b455fa93431af9d-0-ac-1-1 recieved 0
+[FINE] House$AirConditioner-5: Executing transition restore...
+[FINE] choose(20, 50) = 24
+[FINE] House$AirConditioner-11: Started staying for 39 ms.
+3b455fa93431af9d-0-ac-0-3 recieved 0
+[FINE] House$Thermometer-4: Executing transition restore...
+[FINE] choose(20, 50) = 27
+[FINE] House$AirConditioner-5: Started staying for 24 ms.
+[FINE] House$AirConditioner-8: Finished staying.
+3b455fa93431af9d-0-ac-1-3 recieved 1
+[FINE] House$AirConditioner-8: Executing transition end...
+[FINE] Precondition violated, backtracking to broken.
+[FINE] House$Thermometer-9: Executing transition restore...
+[FINE] choose(20, 50) = 31
+[FINE] choose(-100, 100) = -17
+[FINE] choose(-100, 100) = 4
+[FINE] choose(-100, 100) = -2
+[FINE] House$Thermometer-6: Finished staying.
+[FINE] House$Thermometer-5: Finished staying.
+[FINE] House$Thermometer-4: Started staying for 27 ms.
+[FINE] House$Thermometer-3: Finished staying.
+[FINE] choose(-100, 100) = 36
+[FINE] choose(-100, 100) = -67
+[FINE] choose(-100, 100) = 52
+[FINE] choose(-100, 100) = -83
+[FINE] choose(-100, 100) = 85
+[FINE] choose(-100, 100) = 47
+[FINE] choose(-100, 100) = 36
+3b455fa93431af9d-0-ac-2-0 recieved -1
+3b455fa93431af9d-0-ac-2-1 recieved 0
+3b455fa93431af9d-0-ac-2-3 recieved 0
+[FINE] House$Thermometer-7: Executing transition end...
+[FINE] House$AirConditioner-5: Finished staying.
+3b455fa93431af9d-0-ac-2-2 recieved 0
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition restore...
+[FINE] choose(20, 50) = 43
+[FINE] House$Thermometer-9: Started staying for 31 ms.
+[FINE] House$AirConditioner-11: Finished staying.
+[FINE] House$AirConditioner-13: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-13: Executing transition restore...
+[FINE] choose(20, 50) = 28
+[FINE] House$AirConditioner-7: Started staying for 43 ms.
+[FINE] House$Thermometer-4: Finished staying.
+[FINE] House$Thermometer-10: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-10: Executing transition restore...
+[FINE] choose(20, 50) = 45
+[FINE] House$AirConditioner-13: Started staying for 28 ms.
+3b455fa93431af9d-0-ac-3-0 recieved 0
+3b455fa93431af9d-0-ac-3-1 recieved -1
+[FINE] choose(-100, 100) = -8
+[FINE] choose(-100, 100) = 19
+[FINE] choose(-100, 100) = 55
+[FINE] choose(-100, 100) = 87
+[FINE] choose(-100, 100) = 97
+[FINE] choose(-100, 100) = 89
+[FINE] choose(-100, 100) = 42
+[FINE] choose(-100, 100) = 13
+[FINE] choose(-100, 100) = 57
+[FINE] choose(-100, 100) = 43
+[FINE] House$Thermometer-2: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-2: Executing transition restore...
+[FINE] choose(20, 50) = 49
+[FINE] House$AirConditioner-10: Started staying for 45 ms.
+[FINE] House$AirConditioner-2: Started staying for 49 ms.
+3b455fa93431af9d-0-ac-3-2 recieved 1
+3b455fa93431af9d-0-ac-3-3 recieved -1
+[FINE] choose(-100, 100) = -82
+[FINE] choose(-100, 100) = 39
+[FINE] choose(-100, 100) = -48
+[FINE] House$Thermometer-16: Executing transition restore...
+[FINE] choose(20, 50) = 38
+[FINE] House$Thermometer-9: Finished staying.
+[FINE] House$AirConditioner-13: Finished staying.
+[FINE] House$Thermometer-4: Executing transition restore...
+[FINE] choose(20, 50) = 48
+[FINE] House$Thermometer-16: Started staying for 38 ms.
+[FINE] choose(-100, 100) = -54
+[FINE] choose(-100, 100) = -28
+[FINE] choose(-100, 100) = -73
+[FINE] choose(-100, 100) = -53
+[FINE] choose(-100, 100) = -42
+[FINE] choose(-100, 100) = -28
+[FINE] choose(-100, 100) = -71
+[FINE] choose(-100, 100) = 71
+[FINE] choose(-100, 100) = 38
+[FINE] House$AirConditioner-7: Finished staying.
+[FINE] House$Thermometer-15: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-15: Executing transition restore...
+[FINE] choose(20, 50) = 21
+[FINE] House$Thermometer-4: Started staying for 48 ms.
+[FINE] House$Thermometer-6: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-6: Executing transition restore...
+[FINE] choose(20, 50) = 42
+[FINE] House$Thermometer-15: Started staying for 21 ms.
+[FINE] House$AirConditioner-10: Finished staying.
+[FINE] House$Thermometer-11: Executing transition restore...
+[FINE] choose(20, 50) = 27
+[FINE] House$AirConditioner-6: Started staying for 42 ms.
+[FINE] House$AirConditioner-9: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-9: Executing transition restore...
+[FINE] choose(20, 50) = 26
+[FINE] House$Thermometer-11: Started staying for 27 ms.
+[FINE] choose(-100, 100) = -89
+[FINE] choose(-100, 100) = -33
+[FINE] choose(-100, 100) = -71
+[FINE] House$Thermometer-7: Executing transition restore...
+[FINE] choose(20, 50) = 26
+[FINE] House$AirConditioner-9: Started staying for 26 ms.
+[FINE] House$AirConditioner-16: Executing transition restore...
+[FINE] choose(20, 50) = 34
+[FINE] House$Thermometer-7: Started staying for 26 ms.
+[FINE] choose(-100, 100) = 58
+[FINE] choose(-100, 100) = 70
+[FINE] choose(-100, 100) = 26
+[FINE] choose(-100, 100) = 74
+[FINE] choose(-100, 100) = -87
+[FINE] choose(-100, 100) = 61
+[FINE] choose(-100, 100) = 34
+[FINE] House$Thermometer-15: Finished staying.
+[FINE] House$Thermometer-16: Finished staying.
+[FINE] House$AirConditioner-2: Finished staying.
+[FINE] House$AirConditioner-12: Executing transition restore...
+[FINE] choose(20, 50) = 20
+[FINE] House$AirConditioner-16: Started staying for 34 ms.
+[FINE] House-1: Finished staying.
+[FINE] House$AirConditioner-8: Executing transition end...
+[FINE] Precondition violated, backtracking to broken.
+[FINE] House$Thermometer-9: Executing transition break...
+[FINE] choose(20, 50) = 24
+[FINE] House$AirConditioner-12: Started staying for 20 ms.
+[FINE] House$Thermometer-1: Executing transition restore...
+[FINE] choose(20, 50) = 38
+[FINE] House$Thermometer-9: Started staying for 24 ms.
+[FINE] House$Thermometer-1: Started staying for 38 ms.
+[FINE] House$AirConditioner-14: Executing transition restore...
+[FINE] choose(20, 50) = 23
+[FINE] House$Thermometer-11: Finished staying.
+[FINE] House$AirConditioner-2: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-3: Executing transition restore...
+[FINE] choose(20, 50) = 30
+[FINE] House$AirConditioner-14: Started staying for 23 ms.
+[FINE] House$TemperatureManager-1: Executing transition set 0...
+[FINE] choose(20, 50) = 28
+[FINE] House$Thermometer-3: Started staying for 30 ms.
+[FINE] House$AirConditioner-9: Finished staying.
+[FINE] House$Thermometer-4: Finished staying.
+[FINE] House$Thermometer-10: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-10: Executing transition restore...
+[FINE] choose(20, 50) = 32
+[FINE] House$TemperatureManager-1: Started staying for 28 ms.
+[FINE] House$Thermometer-7: Finished staying.
+[FINE] House$Thermometer-7: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition restore...
+[FINE] choose(20, 50) = 27
+[FINE] House$AirConditioner-10: Started staying for 32 ms.
+[FINE] House$AirConditioner-6: Finished staying.
+[FINE] House$AirConditioner-8: Executing transition end...
+[FINE] Precondition violated, backtracking to broken.
+[FINE] House$AirConditioner-9: Executing transition restore...
+[FINE] choose(20, 50) = 36
+[FINE] choose(-100, 100) = 68
+[FINE] choose(-100, 100) = -20
+[FINE] choose(-100, 100) = -3
+[FINE] choose(-100, 100) = 39
+[FINE] choose(-100, 100) = -40
+[FINE] choose(-100, 100) = 55
+[FINE] choose(-100, 100) = -7
+[FINE] choose(-100, 100) = 28
+[FINE] choose(-100, 100) = -98
+[FINE] House$AirConditioner-12: Finished staying.
+[FINE] choose(-100, 100) = -41
+[FINE] House$Thermometer-9: Finished staying.
+[FINE] House$AirConditioner-7: Started staying for 27 ms.
+[FINE] House$AirConditioner-14: Finished staying.
+[FINE] House$AirConditioner-16: Finished staying.
+3b455fa93431af9d-1-ac-0-0 recieved 0
+[FINE] House$AirConditioner-11: Executing transition restore...
+[FINE] choose(20, 50) = 43
+[FINE] House$AirConditioner-9: Started staying for 36 ms.
+[FINE] House$AirConditioner-8: Executing transition end...
+[FINE] Precondition violated, backtracking to broken.
+[FINE] House$Thermometer-9: Executing transition restore...
+[FINE] choose(20, 50) = 37
+[FINE] House$TemperatureManager-1: Finished staying.
+[FINE] House$Thermometer-3: Finished staying.
+[FINE] House$AirConditioner-11: Started staying for 43 ms.
+[FINE] House$Thermometer-1: Finished staying.
+[FINE] choose(-100, 100) = 31
+[FINE] choose(-100, 100) = 79
+[FINE] choose(-100, 100) = 24
+[FINE] House$AirConditioner-15: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-15: Executing transition restore...
+[FINE] choose(20, 50) = 31
+[FINE] House$AirConditioner-10: Finished staying.
+[FINE] House$Thermometer-9: Started staying for 37 ms.
+[FINE] House$Thermometer-15: Executing transition restore...
+[FINE] choose(20, 50) = 20
+[FINE] House$AirConditioner-15: Started staying for 31 ms.
+[FINE] choose(-100, 100) = 28
+[FINE] choose(-100, 100) = -49
+[FINE] choose(-100, 100) = -12
+[FINE] choose(-100, 100) = 86
+[FINE] choose(-100, 100) = -15
+[FINE] choose(-100, 100) = 22
+[FINE] House$AirConditioner-7: Finished staying.
+3b455fa93431af9d-1-ac-0-1 recieved 0
+[FINE] choose(-100, 100) = 31
+[FINE] choose(-100, 100) = -14
+[FINE] choose(-100, 100) = 54
+[FINE] House$Thermometer-7: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition restore...
+[FINE] choose(20, 50) = 43
+[FINE] House$Thermometer-15: Started staying for 20 ms.
+[FINE] House$AirConditioner-14: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-14: Executing transition restore...
+[FINE] choose(20, 50) = 43
+[FINE] House$Thermometer-7: Started staying for 43 ms.
+[FINE] House$AirConditioner-9: Finished staying.
+[FINE] choose(-100, 100) = 58
+[FINE] choose(-100, 100) = 22
+[FINE] choose(-100, 100) = -44
+3b455fa93431af9d-1-ac-0-2 recieved 0
+[FINE] House$AirConditioner-11: Finished staying.
+3b455fa93431af9d-1-ac-0-3 recieved 0
+[FINE] House$Thermometer-9: Finished staying.
+[FINE] House$AirConditioner-15: Finished staying.
+[FINE] choose(-100, 100) = -29
+[FINE] choose(-100, 100) = 90
+[FINE] choose(-100, 100) = -33
+[FINE] House$Thermometer-13: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-13: Executing transition restore...
+[FINE] choose(20, 50) = 27
+[FINE] choose(-100, 100) = 48
+[FINE] choose(-100, 100) = -28
+[FINE] choose(-100, 100) = -75
+3b455fa93431af9d-1-ac-1-0 recieved 0
+[FINE] House$Thermometer-15: Finished staying.
+[FINE] choose(-100, 100) = 67
+[FINE] House$AirConditioner-14: Started staying for 43 ms.
+[FINE] House$Thermometer-14: Executing transition restore...
+[FINE] choose(20, 50) = 37
+[FINE] House$Thermometer-13: Started staying for 27 ms.
+[FINE] House$AirConditioner-9: Executing transition restore...
+[FINE] choose(20, 50) = 42
+[FINE] House$Thermometer-14: Started staying for 37 ms.
+[FINE] House$AirConditioner-5: Executing transition restore...
+[FINE] choose(20, 50) = 26
+[FINE] House$AirConditioner-9: Started staying for 42 ms.
+[FINE] House$AirConditioner-13: Executing transition restore...
+[FINE] choose(20, 50) = 38
+[FINE] House$AirConditioner-5: Started staying for 26 ms.
+[FINE] House$Thermometer-5: Executing transition restore...
+[FINE] choose(20, 50) = 24
+[FINE] House$Thermometer-7: Finished staying.
+[FINE] House$AirConditioner-13: Started staying for 38 ms.
+3b455fa93431af9d-1-ac-1-1 recieved -1
+[FINE] choose(-100, 100) = -98
+[FINE] choose(-100, 100) = 41
+[FINE] choose(-100, 100) = -46
+[FINE] choose(-100, 100) = 59
+[FINE] choose(-100, 100) = 97
+[FINE] choose(-100, 100) = 54
+[FINE] choose(-100, 100) = 93
+[FINE] choose(-100, 100) = 46
+[FINE] choose(-100, 100) = -88
+[FINE] choose(-100, 100) = -89
+3b455fa93431af9d-1-ac-1-2 recieved -1
+[FINE] House$AirConditioner-16: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-16: Executing transition restore...
+[FINE] choose(20, 50) = 30
+[FINE] House$Thermometer-13: Finished staying.
+[FINE] House$Thermometer-5: Started staying for 24 ms.
+[FINE] House$Thermometer-4: Executing transition restore...
+[FINE] choose(20, 50) = 48
+[FINE] House$AirConditioner-16: Started staying for 30 ms.
+[FINE] House$Thermometer-16: Executing transition restore...
+[FINE] choose(20, 50) = 30
+[FINE] House$Thermometer-4: Started staying for 48 ms.
+[FINE] choose(-100, 100) = -88
+[FINE] choose(-100, 100) = 72
+[FINE] choose(-100, 100) = -12
+3b455fa93431af9d-1-ac-1-3 recieved -1
+[FINE] choose(-1, 1) = -1
+[FINE] House$Thermometer-14: Finished staying.
+[FINE] House$AirConditioner-5: Finished staying.
+[FINE] House$Thermometer-10: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-10: Executing transition restore...
+[FINE] choose(20, 50) = 30
+[FINE] House$Thermometer-16: Started staying for 30 ms.
+[FINE] House$AirConditioner-14: Finished staying.
+[FINE] House$AirConditioner-9: Finished staying.
+[FINE] House$AirConditioner-11: Executing transition restore...
+[FINE] choose(20, 50) = 22
+[FINE] House$Thermometer-10: Started staying for 30 ms.
+[FINE] House$Thermometer-14: Executing transition restore...
+[FINE] choose(20, 50) = 25
+[FINE] House$AirConditioner-11: Started staying for 22 ms.
+[FINE] House$AirConditioner-12: Executing transition restore...
+[FINE] choose(20, 50) = 28
+[FINE] House$Thermometer-14: Started staying for 25 ms.
+[FINE] House$AirConditioner-13: Finished staying.
+[FINE] choose(-100, 100) = 20
+[FINE] choose(-100, 100) = 70
+[FINE] choose(-100, 100) = -99
+[FINE] choose(-100, 100) = 26
+[FINE] choose(-100, 100) = 27
+3b455fa93431af9d-1-ac-2-0 recieved 1
+3b455fa93431af9d-1-ac-2-1 recieved 0
+[FINE] choose(-100, 100) = 79
+[FINE] choose(-100, 100) = -76
+[FINE] choose(-100, 100) = 82
+[FINE] choose(-100, 100) = 0
+[FINE] House$Thermometer-5: Finished staying.
+[FINE] House$AirConditioner-16: Finished staying.
+[FINE] House$Thermometer-2: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-2: Executing transition restore...
+[FINE] choose(20, 50) = 42
+[FINE] choose(-100, 100) = 83
+[FINE] choose(-100, 100) = -92
+[FINE] choose(-100, 100) = 22
+[FINE] House$Thermometer-16: Finished staying.
+[FINE] House$AirConditioner-11: Finished staying.
+[FINE] House$Thermometer-14: Finished staying.
+[FINE] House$AirConditioner-12: Started staying for 28 ms.
+[FINE] House$Thermometer-10: Finished staying.
+[FINE] House$Controller-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$TemperatureManager-1: Executing transition set +...
+[FINE] choose(20, 50) = 26
+[FINE] House$Thermometer-2: Started staying for 42 ms.
+[FINE] House$AirConditioner-4: Executing transition restore...
+[FINE] choose(20, 50) = 36
+[FINE] House$TemperatureManager-1: Started staying for 26 ms.
+[FINE] House$AirConditioner-11: Executing transition restore...
+[FINE] choose(20, 50) = 28
+[FINE] House$AirConditioner-4: Started staying for 36 ms.
+[FINE] House$Thermometer-12: Executing transition break...
+[FINE] choose(20, 50) = 23
+[FINE] House$AirConditioner-11: Started staying for 28 ms.
+[FINE] House$Thermometer-4: Finished staying.
+[FINE] House$Thermometer-14: Executing transition restore...
+[FINE] choose(20, 50) = 44
+[FINE] House$Thermometer-12: Started staying for 23 ms.
+[FINE] House$AirConditioner-13: Executing transition restore...
+[FINE] choose(20, 50) = 36
+[FINE] House$Thermometer-14: Started staying for 44 ms.
+3b455fa93431af9d-1-ac-2-3 recieved 0
+3b455fa93431af9d-1-ac-2-2 recieved 1
+3b455fa93431af9d-1-ac-3-0 recieved 0
+[FINE] choose(-100, 100) = 24
+[FINE] choose(-100, 100) = -90
+[FINE] choose(-100, 100) = 68
+[FINE] choose(-100, 100) = -99
+[FINE] choose(-100, 100) = -93
+[FINE] choose(-100, 100) = -28
+[FINE] choose(-100, 100) = 86
+[FINE] House$Thermometer-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-1: Executing transition restore...
+[FINE] choose(20, 50) = 31
+[FINE] House$AirConditioner-13: Started staying for 36 ms.
+[FINE] House$AirConditioner-15: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-15: Executing transition restore...
+[FINE] choose(20, 50) = 31
+[FINE] House$AirConditioner-1: Started staying for 31 ms.
+[FINE] House$Thermometer-11: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-11: Executing transition restore...
+[FINE] choose(20, 50) = 23
+[FINE] House$AirConditioner-15: Started staying for 31 ms.
+[FINE] House$Controller-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-1: Executing transition restore...
+[FINE] choose(20, 50) = 39
+[FINE] House$Thermometer-11: Started staying for 23 ms.
+[FINE] House$AirConditioner-12: Finished staying.
+[FINE] House$TemperatureManager-1: Finished staying.
+[FINE] House$Thermometer-12: Finished staying.
+[FINE] House$Thermometer-12: Executing transition restore...
+[FINE] choose(20, 50) = 36
+[FINE] House$Thermometer-1: Started staying for 39 ms.
+[FINE] House$AirConditioner-5: Executing transition restore...
+[FINE] choose(20, 50) = 25
+[FINE] House$Thermometer-12: Started staying for 36 ms.
+[FINE] House$AirConditioner-11: Finished staying.
+[FINE] House$AirConditioner-2: Executing transition restore...
+[FINE] choose(20, 50) = 44
+3b455fa93431af9d-1-ac-3-2 recieved 0
+3b455fa93431af9d-1-ac-3-1 recieved 0
+[FINE] House$AirConditioner-5: Started staying for 25 ms.
+[FINE] House$Thermometer-9: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-9: Executing transition restore...
+[FINE] choose(20, 50) = 38
+[FINE] House$AirConditioner-2: Started staying for 44 ms.
+[FINE] House$AirConditioner-4: Finished staying.
+3b455fa93431af9d-1-ac-3-3 recieved -1
+[FINE] House$Thermometer-5: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-5: Executing transition restore...
+[FINE] choose(20, 50) = 35
+[FINE] House$Thermometer-9: Started staying for 38 ms.
+[FINE] House$Thermometer-2: Finished staying.
+[FINE] House$AirConditioner-10: Executing transition restore...
+[FINE] choose(20, 50) = 47
+[FINE] House$Thermometer-5: Started staying for 35 ms.
+[FINE] House$AirConditioner-11: Executing transition restore...
+[FINE] choose(20, 50) = 27
+[FINE] House$AirConditioner-10: Started staying for 47 ms.
+[FINE] choose(-100, 100) = 92
+[FINE] choose(-100, 100) = -11
+[FINE] choose(-100, 100) = 35
+[FINE] choose(-100, 100) = -23
+[FINE] choose(-100, 100) = -18
+[FINE] House$Thermometer-11: Finished staying.
+[FINE] choose(-100, 100) = -89
+[FINE] choose(-100, 100) = -63
+[FINE] choose(-100, 100) = 8
+[FINE] choose(-100, 100) = 4
+[FINE] choose(-100, 100) = 44
+[FINE] House$Thermometer-14: Finished staying.
+[FINE] House$AirConditioner-1: Finished staying.
+[FINE] House$AirConditioner-6: Executing transition restore...
+[FINE] choose(20, 50) = 35
+[FINE] House$AirConditioner-15: Finished staying.
+[FINE] House$AirConditioner-11: Started staying for 27 ms.
+[FINE] House$Controller-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$TemperatureManager-1: Executing transition set +...
+[FINE] choose(20, 50) = 34
+[FINE] House$AirConditioner-6: Started staying for 35 ms.
+[FINE] House$AirConditioner-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-2: Executing transition restore...
+[FINE] choose(20, 50) = 24
+[FINE] House$AirConditioner-13: Finished staying.
+[FINE] choose(-100, 100) = 18
+[FINE] choose(-100, 100) = -54
+[FINE] choose(-100, 100) = 96
+[FINE] House$AirConditioner-5: Finished staying.
+[FINE] House$TemperatureManager-1: Started staying for 34 ms.
+[FINE] House$AirConditioner-8: Executing transition end...
+[FINE] Precondition violated, backtracking to broken.
+[FINE] House$AirConditioner-8: Executing transition restore...
+[FINE] choose(20, 50) = 36
+[FINE] House$Thermometer-2: Started staying for 24 ms.
+[FINE] House$AirConditioner-13: Executing transition restore...
+[FINE] choose(20, 50) = 23
+[FINE] House$AirConditioner-8: Started staying for 36 ms.
+[FINE] House$Thermometer-12: Finished staying.
+[FINE] House$Thermometer-1: Finished staying.
+[FINE] House$Thermometer-4: Executing transition restore...
+[FINE] choose(20, 50) = 28
+[FINE] House$AirConditioner-13: Started staying for 23 ms.
+[FINE] House$Controller-1: Executing transition set temperature...
+[FINE] choose(-1, 1) = 0
+[FINE] choose(30, 50) = 36
+[FINE] House$Thermometer-4: Started staying for 28 ms.
+[FINE] House$AirConditioner-3: Executing transition restore...
+[FINE] choose(20, 50) = 47
+[FINE] House$Controller-1: Started staying for 36 ms.
+[FINE] House$Thermometer-15: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-15: Executing transition restore...
+[FINE] choose(20, 50) = 43
+[FINE] House$AirConditioner-3: Started staying for 47 ms.
+[FINE] House$Thermometer-9: Finished staying.
+[FINE] choose(-100, 100) = -4
+[FINE] choose(-100, 100) = 91
+[FINE] House$Thermometer-5: Finished staying.
+[FINE] House$AirConditioner-2: Finished staying.
+[FINE] choose(-100, 100) = -13
+[FINE] House$AirConditioner-11: Finished staying.
+[FINE] choose(-100, 100) = -98
+[FINE] choose(-100, 100) = -33
+[FINE] choose(-100, 100) = -48
+[FINE] choose(-100, 100) = 78
+[FINE] choose(-100, 100) = -78
+[FINE] choose(-100, 100) = -93
+[FINE] House$Thermometer-2: Finished staying.
+[FINE] House$AirConditioner-10: Finished staying.
+[FINE] House$AirConditioner-6: Finished staying.
+[FINE] choose(-100, 100) = -84
+[FINE] choose(-100, 100) = -78
+[FINE] choose(-100, 100) = 21
+[FINE] House$TemperatureManager-1: Finished staying.
+[FINE] House$AirConditioner-11: Executing transition restore...
+[FINE] choose(20, 50) = 32
+[FINE] House$AirConditioner-13: Finished staying.
+[FINE] House$Thermometer-15: Started staying for 43 ms.
+[FINE] House$AirConditioner-8: Finished staying.
+[FINE] House$Thermometer-4: Finished staying.
+[FINE] House$Thermometer-16: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-16: Executing transition restore...
+[FINE] choose(20, 50) = 36
+[FINE] House$AirConditioner-11: Started staying for 32 ms.
+[FINE] House$AirConditioner-13: Executing transition restore...
+[FINE] choose(20, 50) = 25
+[FINE] House$Thermometer-16: Started staying for 36 ms.
+[FINE] House$AirConditioner-15: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-15: Executing transition restore...
+[FINE] choose(20, 50) = 29
+[FINE] House$AirConditioner-13: Started staying for 25 ms.
+[FINE] House$AirConditioner-7: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition restore...
+[FINE] choose(20, 50) = 33
+[FINE] House$Controller-1: Finished staying.
+[FINE] House$AirConditioner-15: Started staying for 29 ms.
+[FINE] choose(-100, 100) = -76
+[FINE] choose(-100, 100) = -95
+[FINE] choose(-100, 100) = 53
+[FINE] choose(-100, 100) = 38
+[FINE] choose(-100, 100) = 25
+[FINE] choose(-100, 100) = -95
+[FINE] choose(-100, 100) = 60
+[FINE] House$Thermometer-14: Executing transition restore...
+[FINE] choose(20, 50) = 47
+[FINE] House$AirConditioner-3: Finished staying.
+[FINE] House$AirConditioner-7: Started staying for 33 ms.
+[FINE] House$Thermometer-14: Started staying for 47 ms.
+[FINE] House$Thermometer-15: Finished staying.
+[FINE] House$Thermometer-16: Finished staying.
+[FINE] House$AirConditioner-13: Finished staying.
+[FINE] House$AirConditioner-15: Finished staying.
+[FINE] House$AirConditioner-11: Finished staying.
+[FINE] House$AirConditioner-5: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-6: Executing transition restore...
+[FINE] choose(20, 50) = 47
+[FINE] House$AirConditioner-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-2: Executing transition restore...
+[FINE] choose(20, 50) = 44
+[FINE] House$Thermometer-6: Started staying for 47 ms.
+[FINE] House$Thermometer-10: Executing transition restore...
+[FINE] choose(20, 50) = 21
+[FINE] House$Thermometer-2: Started staying for 44 ms.
+[FINE] House$Thermometer-8: Executing transition restore...
+[FINE] choose(20, 50) = 26
+[FINE] House$Thermometer-10: Started staying for 21 ms.
+[FINE] House$AirConditioner-2: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-3: Executing transition break...
+[FINE] choose(20, 50) = 42
+[FINE] House$Thermometer-8: Started staying for 26 ms.
+[FINE] House$AirConditioner-10: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-10: Executing transition restore...
+[FINE] choose(20, 50) = 37
+[FINE] House$Thermometer-3: Started staying for 42 ms.
+[FINE] House$AirConditioner-15: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-15: Executing transition restore...
+[FINE] choose(20, 50) = 25
+[FINE] House$AirConditioner-10: Started staying for 37 ms.
+[FINE] House$AirConditioner-1: Executing transition restore...
+[FINE] choose(20, 50) = 32
+[FINE] House$AirConditioner-15: Started staying for 25 ms.
+[FINE] House$AirConditioner-12: Executing transition restore...
+[FINE] choose(20, 50) = 40
+[FINE] House$AirConditioner-1: Started staying for 32 ms.
+[FINE] House$AirConditioner-13: Executing transition restore...
+[FINE] choose(20, 50) = 35
+[FINE] House$AirConditioner-12: Started staying for 40 ms.
+[FINE] House$Thermometer-1: Executing transition break...
+[FINE] choose(20, 50) = 49
+[FINE] House$AirConditioner-13: Started staying for 35 ms.
+[FINE] House$Thermometer-4: Executing transition restore...
+[FINE] choose(20, 50) = 29
+[FINE] House$Thermometer-1: Started staying for 49 ms.
+[FINE] House$Thermometer-16: Executing transition restore...
+[FINE] choose(20, 50) = 35
+[FINE] House$Thermometer-4: Started staying for 29 ms.
+[FINE] House$AirConditioner-6: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-6: Executing transition restore...
+[FINE] choose(20, 50) = 30
+[FINE] choose(-100, 100) = 89
+[FINE] choose(-100, 100) = -25
+[FINE] choose(-100, 100) = 94
+[FINE] choose(-100, 100) = 1
+[FINE] choose(-100, 100) = 93
+[FINE] choose(-100, 100) = -92
+[FINE] choose(-100, 100) = 31
+[FINE] choose(-100, 100) = 92
+[FINE] choose(-100, 100) = 98
+[FINE] choose(-100, 100) = -91
+[FINE] choose(-100, 100) = 24
+[FINE] choose(-100, 100) = 53
+[FINE] choose(-100, 100) = -41
+[FINE] House$Thermometer-16: Started staying for 35 ms.
+[FINE] House$Thermometer-13: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Finished staying.
+[FINE] House$Thermometer-13: Executing transition restore...
+[FINE] choose(20, 50) = 45
+[FINE] House$AirConditioner-6: Started staying for 30 ms.
+[FINE] House$AirConditioner-4: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-5: Executing transition break...
+[FINE] choose(20, 50) = 30
+[FINE] House$Thermometer-13: Started staying for 45 ms.
+[FINE] House$Thermometer-9: Executing transition restore...
+[FINE] choose(20, 50) = 44
+[FINE] House$Thermometer-5: Started staying for 30 ms.
+[FINE] House$Thermometer-10: Finished staying.
+[FINE] House$AirConditioner-11: Executing transition restore...
+[FINE] choose(20, 50) = 34
+[FINE] House$Thermometer-9: Started staying for 44 ms.
+[FINE] House$AirConditioner-7: Executing transition restore...
+[FINE] choose(20, 50) = 30
+[FINE] House$AirConditioner-11: Started staying for 34 ms.
+[FINE] House$TemperatureManager-1: Executing transition set +...
+[FINE] choose(20, 50) = 24
+[FINE] House$AirConditioner-7: Started staying for 30 ms.
+[FINE] House$AirConditioner-9: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-10: Executing transition break...
+[FINE] choose(20, 50) = 43
+[FINE] House$TemperatureManager-1: Started staying for 24 ms.
+[FINE] House$AirConditioner-2: Executing transition restore...
+[FINE] choose(20, 50) = 20
+[FINE] House$Thermometer-10: Started staying for 43 ms.
+[FINE] House$AirConditioner-9: Executing transition restore...
+[FINE] choose(20, 50) = 43
+[FINE] House$Thermometer-8: Finished staying.
+[FINE] House$AirConditioner-2: Started staying for 20 ms.
+[FINE] House$Thermometer-12: Executing transition restore...
+[FINE] choose(20, 50) = 24
+[FINE] House$AirConditioner-9: Started staying for 43 ms.
+[FINE] House$Thermometer-11: Executing transition restore...
+[FINE] choose(20, 50) = 35
+[FINE] House$AirConditioner-15: Finished staying.
+[FINE] House$Thermometer-4: Finished staying.
+[FINE] House$AirConditioner-1: Finished staying.
+[FINE] House$Thermometer-12: Started staying for 24 ms.
+[FINE] House$Controller-1: Executing transition set temperature...
+[FINE] choose(-1, 1) = -1
+[FINE] choose(30, 50) = 32
+[FINE] House$Thermometer-11: Started staying for 35 ms.
+[FINE] House$AirConditioner-1: Executing transition restore...
+[FINE] choose(20, 50) = 43
+[FINE] House$Controller-1: Started staying for 32 ms.
+[FINE] House$AirConditioner-10: Finished staying.
+[FINE] choose(-100, 100) = 46
+[FINE] choose(-100, 100) = -11
+[FINE] choose(-100, 100) = 76
+[FINE] House$AirConditioner-13: Finished staying.
+[FINE] choose(-100, 100) = 30
+[FINE] choose(-100, 100) = -98
+[FINE] choose(-100, 100) = -71
+[FINE] House$Thermometer-3: Finished staying.
+[FINE] House$Thermometer-14: Finished staying.
+[FINE] House$Thermometer-2: Finished staying.
+[FINE] House$AirConditioner-12: Finished staying.
+[FINE] House$AirConditioner-4: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-5: Executing transition restore...
+[FINE] choose(20, 50) = 26
+[FINE] choose(-100, 100) = 81
+[FINE] choose(-100, 100) = -62
+[FINE] choose(-100, 100) = -66
+[FINE] choose(-100, 100) = -11
+[FINE] choose(-100, 100) = -4
+[FINE] choose(-100, 100) = 14
+[FINE] House$Thermometer-6: Finished staying.
+[FINE] House$AirConditioner-2: Finished staying.
+[FINE] House$AirConditioner-1: Started staying for 43 ms.
+[FINE] House$TemperatureManager-1: Finished staying.
+[FINE] House$AirConditioner-3: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-3: Executing transition restore...
+[FINE] choose(20, 50) = 35
+[FINE] House$AirConditioner-5: Started staying for 26 ms.
+[FINE] House$AirConditioner-6: Finished staying.
+[FINE] House$Thermometer-5: Finished staying.
+[FINE] House$AirConditioner-10: Executing transition restore...
+[FINE] choose(20, 50) = 23
+[FINE] House$Thermometer-1: Finished staying.
+[FINE] House$Thermometer-16: Finished staying.
+[FINE] House$AirConditioner-3: Started staying for 35 ms.
+[FINE] House$AirConditioner-7: Finished staying.
+[FINE] House$AirConditioner-6: Executing transition restore...
+[FINE] choose(20, 50) = 34
+[FINE] House$AirConditioner-10: Started staying for 23 ms.
+[FINE] House$AirConditioner-11: Finished staying.
+[FINE] House$Thermometer-12: Finished staying.
+[FINE] House$AirConditioner-14: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-14: Executing transition restore...
+[FINE] choose(20, 50) = 30
+[FINE] House$AirConditioner-6: Started staying for 34 ms.
+[FINE] House$Thermometer-12: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-12: Executing transition restore...
+[FINE] choose(20, 50) = 41
+[FINE] House$AirConditioner-14: Started staying for 30 ms.
+[FINE] House$TemperatureManager-1: Executing transition end...
+[FINE] Precondition violated, backtracking to +.
+[FINE] House$TemperatureManager-1: Executing transition set 0...
+[FINE] choose(20, 50) = 35
+[FINE] House$Thermometer-12: Started staying for 41 ms.
+[FINE] House$Thermometer-13: Finished staying.
+[FINE] House$Thermometer-7: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-7: Executing transition restore...
+[FINE] choose(20, 50) = 37
+[FINE] House$TemperatureManager-1: Started staying for 35 ms.
+[FINE] House$Thermometer-15: Executing transition restore...
+[FINE] choose(20, 50) = 22
+[FINE] House$Thermometer-9: Finished staying.
+[FINE] House$Thermometer-10: Finished staying.
+[FINE] House$AirConditioner-7: Started staying for 37 ms.
+[FINE] House$Controller-1: Finished staying.
+[FINE] House$AirConditioner-9: Finished staying.
+[FINE] House$AirConditioner-12: Executing transition end...
+[FINE] House$Thermometer-11: Finished staying.
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-12: Executing transition restore...
+[FINE] choose(20, 50) = 29
+[FINE] choose(-100, 100) = 0
+[FINE] choose(-100, 100) = -9
+[FINE] choose(-100, 100) = -84
+[FINE] choose(-100, 100) = -44
+[FINE] choose(-100, 100) = 85
+[FINE] choose(-100, 100) = 49
+[FINE] choose(-100, 100) = 51
+[FINE] House$AirConditioner-5: Finished staying.
+[FINE] House$AirConditioner-10: Finished staying.
+[FINE] House$Thermometer-15: Started staying for 22 ms.
+[FINE] House$AirConditioner-11: Executing transition restore...
+[FINE] choose(20, 50) = 42
+[FINE] House$AirConditioner-12: Started staying for 29 ms.
+[FINE] House$AirConditioner-3: Finished staying.
+3b455fa93431af9d-0-ac-0-0 recieved -1
+[FINE] House$AirConditioner-1: Finished staying.
+[FINE] House$AirConditioner-14: Finished staying.
+[FINE] House$AirConditioner-6: Finished staying.
+[FINE] House$Thermometer-5: Executing transition end...
+3b455fa93431af9d-0-ac-0-1 recieved -1
+3b455fa93431af9d-0-ac-0-2 recieved -1
+[FINE] House$TemperatureManager-1: Finished staying.
+[FINE] House$Thermometer-12: Finished staying.
+[FINE] choose(-100, 100) = -5
+[FINE] choose(-100, 100) = -55
+[FINE] choose(-100, 100) = -6
+[FINE] House$AirConditioner-7: Finished staying.
+[FINE] choose(-100, 100) = -82
+[FINE] choose(-100, 100) = 37
+[FINE] choose(-100, 100) = 35
+[FINE] choose(-100, 100) = 55
+[FINE] choose(-100, 100) = -2
+[FINE] choose(-100, 100) = -60
+3b455fa93431af9d-0-ac-0-3 recieved -1
+[FINE] Precondition violated, backtracking to broken.
+3b455fa93431af9d-0-ac-1-0 recieved -1
+[FINE] House$AirConditioner-5: Executing transition restore...
+[FINE] choose(20, 50) = 25
+[FINE] House$Thermometer-15: Finished staying.
+[FINE] House$AirConditioner-11: Started staying for 42 ms.
+[FINE] choose(-100, 100) = -55
+[FINE] choose(-100, 100) = -6
+[FINE] choose(-100, 100) = -82
+[FINE] choose(-100, 100) = 37
+[FINE] House$AirConditioner-12: Finished staying.
+[FINE] House$AirConditioner-4: Executing transition restore...
+[FINE] choose(20, 50) = 28
+[FINE] House$AirConditioner-5: Started staying for 25 ms.
+[FINE] House$Thermometer-3: Executing transition end...
+[FINE] Precondition violated, backtracking to broken.
+[FINE] House$Thermometer-3: Executing transition restore...
+[FINE] choose(20, 50) = 34
+[FINE] House$AirConditioner-4: Started staying for 28 ms.
+[FINE] House$Thermometer-4: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-5: Executing transition restore...
+[FINE] choose(20, 50) = 33
+[FINE] choose(-100, 100) = 22
+[FINE] choose(-100, 100) = -52
+[FINE] choose(-100, 100) = 52
+[FINE] choose(-100, 100) = 72
+[FINE] choose(-100, 100) = 15
+[FINE] choose(-100, 100) = -41
+[FINE] choose(-100, 100) = 57
+[FINE] choose(-100, 100) = -25
+[FINE] choose(-100, 100) = -95
+[FINE] choose(-100, 100) = -88
+[FINE] choose(-100, 100) = 55
+[FINE] choose(-100, 100) = -14
+[FINE] House$AirConditioner-5: Finished staying.
+[FINE] House$AirConditioner-4: Finished staying.
+[FINE] House$Thermometer-13: Executing transition restore...
+[FINE] choose(20, 50) = 36
+[FINE] House$Thermometer-3: Started staying for 34 ms.
+[FINE] House$AirConditioner-11: Finished staying.
+[FINE] House$Thermometer-5: Started staying for 33 ms.
+[FINE] House$Thermometer-8: Executing transition restore...
+[FINE] choose(20, 50) = 36
+[FINE] House$Thermometer-13: Started staying for 36 ms.
+[FINE] House$AirConditioner-13: Executing transition restore...
+[FINE] choose(20, 50) = 31
+[FINE] House$Thermometer-8: Started staying for 36 ms.
+[FINE] choose(-100, 100) = -2
+[FINE] choose(-100, 100) = 11
+[FINE] choose(-100, 100) = -77
+[FINE] House$TemperatureManager-1: Executing transition end...
+[FINE] Precondition violated, backtracking to 0.
+[FINE] House$Thermometer-1: Executing transition restore...
+[FINE] choose(20, 50) = 46
+[FINE] choose(-100, 100) = -62
+[FINE] choose(-100, 100) = -67
+[FINE] choose(-100, 100) = -42
+[FINE] choose(-100, 100) = 0
+[FINE] House$AirConditioner-13: Started staying for 31 ms.
+[FINE] House$Thermometer-14: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-14: Executing transition restore...
+[FINE] choose(20, 50) = 47
+[FINE] House$Thermometer-1: Started staying for 46 ms.
+3b455fa93431af9d-0-ac-1-2 recieved -1
+3b455fa93431af9d-0-ac-1-1 recieved 0
+[FINE] House$Thermometer-3: Finished staying.
+[FINE] House$Thermometer-5: Finished staying.
+[FINE] House$Thermometer-13: Finished staying.
+[FINE] House$Thermometer-6: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] choose(-100, 100) = 58
+[FINE] choose(-100, 100) = 55
+[FINE] choose(-100, 100) = -42
+[FINE] choose(-100, 100) = -88
+[FINE] choose(-100, 100) = -79
+[FINE] choose(-100, 100) = 11
+[FINE] choose(-100, 100) = -11
+[FINE] House$Thermometer-14: Started staying for 47 ms.
+[FINE] House$AirConditioner-12: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-12: Executing transition restore...
+[FINE] choose(20, 50) = 26
+[FINE] choose(-100, 100) = 26
+[FINE] choose(-100, 100) = 73
+[FINE] House$Thermometer-8: Finished staying.
+[FINE] House$Thermometer-8: Executing transition restore...
+[FINE] choose(-100, 100) = 70
+[FINE] choose(-100, 100) = -41
+[FINE] choose(-100, 100) = -53
+[FINE] choose(-100, 100) = 82
+[FINE] choose(20, 50) = 27
+[FINE] House$AirConditioner-13: Finished staying.
+[FINE] House$AirConditioner-12: Started staying for 26 ms.
+[FINE] House$Thermometer-11: Executing transition restore...
+[FINE] choose(20, 50) = 48
+[FINE] House$Thermometer-8: Started staying for 27 ms.
+[FINE] choose(-100, 100) = 47
+[FINE] choose(-100, 100) = -5
+[FINE] choose(-100, 100) = 8
+[FINE] choose(-100, 100) = 44
+[FINE] choose(-100, 100) = 84
+[FINE] choose(-100, 100) = 7
+[FINE] choose(-100, 100) = -18
+[FINE] choose(-100, 100) = 20
+3b455fa93431af9d-0-ac-1-3 recieved 0
+[FINE] House$Thermometer-1: Finished staying.
+[FINE] choose(-100, 100) = -38
+[FINE] choose(-100, 100) = 76
+[FINE] choose(-100, 100) = 80
+[FINE] choose(-100, 100) = -44
+[FINE] House$Thermometer-6: Executing transition restore...
+[FINE] choose(20, 50) = 28
+[FINE] House$Thermometer-11: Started staying for 48 ms.
+[FINE] House$AirConditioner-11: Executing transition restore...
+[FINE] choose(20, 50) = 38
+[FINE] House$Thermometer-6: Started staying for 28 ms.
+[FINE] House$Thermometer-10: Executing transition end...
+[FINE] House$AirConditioner-12: Finished staying.
+[FINE] House$Thermometer-14: Finished staying.
+[FINE] House$Thermometer-8: Finished staying.
+[FINE] Precondition violated, backtracking to broken.
+[FINE] House$Thermometer-10: Executing transition restore...
+[FINE] choose(20, 50) = 48
+[FINE] House$AirConditioner-11: Started staying for 38 ms.
+[FINE] House$AirConditioner-9: Executing transition restore...
+[FINE] choose(20, 50) = 39
+[FINE] House$Thermometer-10: Started staying for 48 ms.
+[FINE] House$Thermometer-3: Executing transition restore...
+[FINE] choose(20, 50) = 23
+[FINE] House$AirConditioner-9: Started staying for 39 ms.
+[FINE] House$AirConditioner-3: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-3: Executing transition restore...
+[FINE] choose(20, 50) = 29
+[FINE] House$Thermometer-3: Started staying for 23 ms.
+[FINE] House$AirConditioner-15: Executing transition restore...
+[FINE] choose(20, 50) = 40
+[FINE] House$AirConditioner-3: Started staying for 29 ms.
+[FINE] House$AirConditioner-10: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-10: Executing transition restore...
+[FINE] choose(20, 50) = 46
+[FINE] House$AirConditioner-15: Started staying for 40 ms.
+[FINE] House$AirConditioner-8: Executing transition restore...
+[FINE] choose(20, 50) = 26
+[FINE] House$AirConditioner-10: Started staying for 46 ms.
+[FINE] choose(-100, 100) = 22
+3b455fa93431af9d-0-ac-2-0 recieved 0
+[FINE] House$Thermometer-5: Executing transition break...
+[FINE] choose(20, 50) = 23
+[FINE] House$AirConditioner-8: Started staying for 26 ms.
+[FINE] House$AirConditioner-4: Executing transition restore...
+[FINE] choose(20, 50) = 45
+[FINE] House$Thermometer-5: Started staying for 23 ms.
+[FINE] choose(-100, 100) = -70
+[FINE] choose(-100, 100) = -23
+[FINE] House$Thermometer-6: Finished staying.
+[FINE] House$Thermometer-14: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-14: Executing transition restore...
+[FINE] choose(20, 50) = 28
+[FINE] House$AirConditioner-4: Started staying for 45 ms.
+[FINE] choose(-100, 100) = -59
+[FINE] choose(-100, 100) = -42
+[FINE] choose(-100, 100) = -43
+[FINE] choose(-100, 100) = -61
+[FINE] House$Thermometer-3: Finished staying.
+[FINE] House$Controller-1: Executing transition set temperature...
+[FINE] choose(-1, 1) = 0
+[FINE] choose(30, 50) = 31
+[FINE] House$Thermometer-14: Started staying for 28 ms.
+[FINE] House$AirConditioner-3: Finished staying.
+[FINE] House$TemperatureManager-1: Executing transition set 0...
+[FINE] choose(20, 50) = 27
+[FINE] House$Controller-1: Started staying for 31 ms.
+[FINE] House$AirConditioner-6: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$Thermometer-7: Executing transition restore...
+[FINE] choose(20, 50) = 39
+[FINE] House$Thermometer-11: Finished staying.
+[FINE] House$TemperatureManager-1: Started staying for 27 ms.
+[FINE] House$AirConditioner-2: Executing transition restore...
+[FINE] choose(20, 50) = 49
+[FINE] House$Thermometer-7: Started staying for 39 ms.
+[FINE] House$AirConditioner-11: Finished staying.
+[FINE] House$Thermometer-5: Finished staying.
+[FINE] House$Thermometer-12: Executing transition restore...
+[FINE] choose(20, 50) = 26
+[FINE] House$AirConditioner-2: Started staying for 49 ms.
+[FINE] House$AirConditioner-1: Executing transition restore...
+[FINE] choose(20, 50) = 27
+[FINE] House$AirConditioner-9: Finished staying.
+[FINE] House$AirConditioner-8: Finished staying.
+[FINE] choose(-100, 100) = 62
+[FINE] choose(-100, 100) = 18
+[FINE] choose(-100, 100) = -98
+[FINE] choose(-100, 100) = 71
+[FINE] choose(-100, 100) = 58
+[FINE] choose(-100, 100) = 49
+[FINE] choose(-100, 100) = -79
+[FINE] House$Thermometer-10: Finished staying.
+3b455fa93431af9d-0-ac-2-1 recieved 0
+3b455fa93431af9d-0-ac-2-2 recieved 0
+[FINE] choose(-100, 100) = 44
+[FINE] choose(-100, 100) = 27
+[FINE] House$AirConditioner-15: Finished staying.
+[FINE] House$Thermometer-14: Finished staying.
+[FINE] House$AirConditioner-10: Finished staying.
+[FINE] choose(-100, 100) = -50
+[FINE] choose(-100, 100) = -63
+[FINE] choose(-100, 100) = -5
+[FINE] choose(-100, 100) = 61
+[FINE] House$TemperatureManager-1: Finished staying.
+[FINE] House$Thermometer-12: Started staying for 26 ms.
+[FINE] House$AirConditioner-4: Finished staying.
+[FINE] House$Controller-1: Finished staying.
+3b455fa93431af9d-0-ac-3-0 recieved -1
+[FINE] House$Thermometer-14: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-14: Executing transition break...
+[FINE] choose(20, 50) = 34
+[FINE] House$AirConditioner-1: Started staying for 27 ms.
+[FINE] House$AirConditioner-16: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-16: Executing transition restore...
+[FINE] choose(20, 50) = 22
+[FINE] House$AirConditioner-14: Started staying for 34 ms.
+3b455fa93431af9d-0-ac-2-3 recieved -1
+[FINE] House$AirConditioner-5: Executing transition restore...
+[FINE] choose(20, 50) = 47
+[FINE] House$AirConditioner-16: Started staying for 22 ms.
+[FINE] House$Thermometer-7: Finished staying.
+[FINE] House$AirConditioner-3: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$AirConditioner-3: Executing transition restore...
+[FINE] choose(20, 50) = 21
+3b455fa93431af9d-0-ac-3-2 recieved -1
+3b455fa93431af9d-0-ac-3-1 recieved 0
+3b455fa93431af9d-0-ac-3-3 recieved 0
+[FINE] choose(-100, 100) = -90
+[FINE] House$AirConditioner-5: Started staying for 47 ms.
+[FINE] House$Controller-1: Executing transition end...
+[FINE] Precondition violated, backtracking to run.
+[FINE] House$TemperatureManager-1: Executing transition set +...
+[FINE] choose(20, 50) = 30
+[FINE] House$AirConditioner-3: Started staying for 21 ms.
+[FINE] choose(-100, 100) = -63
+[FINE] choose(-100, 100) = -2
+[FINE] choose(-100, 100) = 1
+[FINE] choose(-100, 100) = -42
+[FINE] choose(-100, 100) = 12
+[FINE] choose(-100, 100) = 84
+[FINE] choose(-100, 100) = 30
+[FINE] choose(-100, 100) = 45
+[FINE] choose(-100, 100) = 88
+[FINE] House$AirConditioner-2: Finished staying.
+[FINE] House$Thermometer-12: Finished staying.
+[FINE] choose(-100, 100) = 96
+[FINE] choose(-100, 100) = -80
+[FINE] House-1: Executing transition end...
+[FINE] House$Thermometer-4: Executing transition restore...
+[FINE] choose(20, 50) = 36
+[FINE] House$TemperatureManager-1: Started staying for 30 ms.
+[FINE] House$AirConditioner-1: Finished staying.
+[FINE] House$Thermometer-2: Executing transition break...
+[FINE] choose(20, 50) = 35
+[FINE] House$AirConditioner-14: Finished staying.
+[FINE] House$AirConditioner-3: Finished staying.
+[FINE] House$AirConditioner-1: Executing transition end...
+[FINE] House$Thermometer-2: Started staying for 35 ms.
+[FINE] House$Thermometer-4: Started staying for 36 ms.
+[FINE] House$AirConditioner-16: Finished staying.
+[FINE] choose(-100, 100) = -33
+[FINE] House$AirConditioner-9: Executing transition restore...
+[FINE] choose(20, 50) = 27
+[FINE] choose(-100, 100) = -13
+[FINE] choose(-100, 100) = 6
+[FINE] House$AirConditioner-9: Started staying for 27 ms.
+[FINE] House$AirConditioner-6: Executing transition restore...
+[FINE] choose(20, 50) = 22
+[FINE] House$AirConditioner-5: Finished staying.
+[FINE] House$TemperatureManager-1: Finished staying.
+[FINE] House$AirConditioner-8: Executing transition end...
+[FINE] House$Thermometer-2: Finished staying.
+[FINE] House$AirConditioner-6: Started staying for 22 ms.
+[FINE] House$Thermometer-4: Finished staying.
+3b455fa93431af9d-1-ac-0-1 recieved -1
+[FINE] House$AirConditioner-9: Finished staying.
+[FINE] House$Thermometer-12: Executing transition break...
+[FINE] choose(20, 50) = 40
+[FINE] House$AirConditioner-6: Finished staying.
+3b455fa93431af9d-1-ac-0-2 recieved -1
+[FINE] House$AirConditioner-6: Executing transition break...
+[FINE] choose(20, 50) = 28
+[FINE] House$Thermometer-12: Started staying for 40 ms.
+3b455fa93431af9d-1-ac-0-3 recieved -1
+[FINE] House$Controller-1: Executing transition set temperature...
+[FINE] choose(-1, 1) = 0
+[FINE] choose(30, 50) = 34
+3b455fa93431af9d-1-ac-1-0 recieved -1
+[FINE] House$AirConditioner-6: Started staying for 28 ms.
+[FINE] House$Thermometer-15: Executing transition end...
+[FINE] House$Controller-1: Started staying for 34 ms.
+3b455fa93431af9d-1-ac-1-1 recieved -1
+[FINE] choose(-1, 1) = 0
+3b455fa93431af9d-1-ac-1-2 recieved 0
+3b455fa93431af9d-1-ac-2-0 recieved -1
+3b455fa93431af9d-1-ac-2-1 recieved -1
+[FINE] House$AirConditioner-10: Executing transition end...
+[FINE] House$AirConditioner-6: Finished staying.
+3b455fa93431af9d-1-ac-2-2 recieved -1
+[FINE] House$Thermometer-12: Finished staying.
+3b455fa93431af9d-1-ac-2-3 recieved -1
+[FINE] House$Controller-1: Finished staying.
+3b455fa93431af9d-1-ac-3-0 recieved -1
+3b455fa93431af9d-1-ac-3-1 recieved -1
+[FINE] choose(-1, 1) = 0
+3b455fa93431af9d-1-ac-3-2 recieved -1
+3b455fa93431af9d-1-ac-3-3 recieved -1
+[FINE] House$Thermometer-11: Executing transition end...
+[FINE] House$Thermometer-9: Executing transition restore...
+[FINE] choose(20, 50) = 42
+[FINE] House$Thermometer-8: Executing transition restore...
+[FINE] choose(20, 50) = 20
+[FINE] House$Thermometer-9: Started staying for 42 ms.
+[FINE] House$AirConditioner-11: Executing transition end...
+[FINE] House$Thermometer-8: Started staying for 20 ms.
+[FINE] House$Thermometer-12: Executing transition break...
+[FINE] choose(20, 50) = 24
+[FINE] House$AirConditioner-14: Executing transition end...
+[FINE] House$Thermometer-12: Started staying for 24 ms.
+[FINE] House$AirConditioner-9: Executing transition end...
+[FINE] House$AirConditioner-16: Executing transition end...
+[FINE] House$Thermometer-8: Finished staying.
+[FINE] House$Thermometer-16: Executing transition end...
+[FINE] House$Thermometer-12: Finished staying.
+[FINE] House$Thermometer-1: Executing transition restore...
+[FINE] choose(20, 50) = 47
+[FINE] House$AirConditioner-12: Executing transition end...
+[FINE] House$Thermometer-1: Started staying for 47 ms.
+[FINE] House$Thermometer-9: Finished staying.
+[FINE] House$Thermometer-5: Executing transition restore...
+[FINE] choose(20, 50) = 35
+[FINE] House$Thermometer-9: Executing transition end...
+[FINE] House$Thermometer-5: Started staying for 35 ms.
+[FINE] House$Thermometer-8: Executing transition break...
+[FINE] choose(20, 50) = 22
+[FINE] House$AirConditioner-6: Executing transition end...
+[FINE] House$Thermometer-8: Started staying for 22 ms.
+[FINE] House$Thermometer-6: Executing transition restore...
+[FINE] choose(20, 50) = 23
+[FINE] House$Thermometer-2: Executing transition end...
+[FINE] House$Thermometer-6: Started staying for 23 ms.
+[FINE] House$TemperatureManager-1: Executing transition end...
+[FINE] House$Thermometer-3: Executing transition end...
+[FINE] House$AirConditioner-3: Executing transition end...
+[FINE] House$Thermometer-4: Executing transition end...
+[FINE] House$Thermometer-13: Executing transition end...
+[FINE] House$Thermometer-10: Executing transition end...
+[FINE] House$Thermometer-8: Finished staying.
+[FINE] House$Thermometer-12: Executing transition break...
+[FINE] choose(20, 50) = 28
+[FINE] House$AirConditioner-15: Executing transition restore...
+[FINE] choose(20, 50) = 33
+[FINE] House$Thermometer-12: Started staying for 28 ms.
+[FINE] House$AirConditioner-4: Executing transition end...
+[FINE] House$AirConditioner-15: Started staying for 33 ms.
+[FINE] House$AirConditioner-5: Executing transition end...
+[FINE] House$Thermometer-5: Finished staying.
+[FINE] House$Thermometer-5: Executing transition restore...
+[FINE] choose(20, 50) = 38
+[FINE] House$Thermometer-8: Executing transition restore...
+[FINE] choose(20, 50) = 41
+[FINE] House$Thermometer-5: Started staying for 38 ms.
+[FINE] House$Thermometer-7: Executing transition end...
+[FINE] House$Thermometer-8: Started staying for 41 ms.
+[FINE] House$Thermometer-1: Finished staying.
+[FINE] House$Thermometer-6: Finished staying.
+[FINE] House$Thermometer-1: Executing transition restore...
+[FINE] choose(20, 50) = 29
+[FINE] House$AirConditioner-13: Executing transition end...
+[FINE] House$Thermometer-1: Started staying for 29 ms.
+[FINE] House$Thermometer-14: Executing transition restore...
+[FINE] choose(20, 50) = 40
+[FINE] House$AirConditioner-2: Executing transition end...
+[FINE] House$Thermometer-14: Started staying for 40 ms.
+[FINE] House$AirConditioner-7: Executing transition restore...
+[FINE] choose(20, 50) = 45
+[FINE] House$Controller-1: Executing transition end...
+[FINE] House$AirConditioner-7: Started staying for 45 ms.
+[FINE] House$Thermometer-6: Executing transition end...
+[FINE] House$Thermometer-12: Finished staying.
+[FINE] House$Thermometer-12: Executing transition end...
+[FINE] House$AirConditioner-15: Finished staying.
+[FINE] House$AirConditioner-15: Executing transition restore...
+[FINE] choose(20, 50) = 45
+[FINE] House$AirConditioner-15: Started staying for 45 ms.
+[FINE] House$Thermometer-1: Finished staying.
+[FINE] House$Thermometer-1: Executing transition restore...
+[FINE] choose(20, 50) = 35
+[FINE] House$Thermometer-1: Started staying for 35 ms.
+[FINE] House$Thermometer-5: Finished staying.
+[FINE] House$Thermometer-5: Executing transition end...
+[FINE] House$Thermometer-8: Finished staying.
+[FINE] House$Thermometer-8: Executing transition restore...
+[FINE] choose(20, 50) = 38
+[FINE] House$Thermometer-8: Started staying for 38 ms.
+[FINE] House$Thermometer-14: Finished staying.
+[FINE] House$Thermometer-14: Executing transition end...
+[FINE] House$AirConditioner-7: Finished staying.
+[FINE] House$AirConditioner-7: Executing transition restore...
+[FINE] choose(20, 50) = 31
+[FINE] House$AirConditioner-7: Started staying for 31 ms.
+[FINE] House$Thermometer-1: Finished staying.
+[FINE] House$Thermometer-1: Executing transition end...
+[FINE] House$AirConditioner-15: Finished staying.
+[FINE] House$Thermometer-8: Finished staying.
+[FINE] House$Thermometer-8: Executing transition restore...
+[FINE] choose(20, 50) = 20
+[FINE] House$AirConditioner-7: Finished staying.
+[FINE] House$AirConditioner-7: Executing transition restore...
+[FINE] choose(20, 50) = 25
+[FINE] House$Thermometer-8: Started staying for 20 ms.
+[FINE] House$AirConditioner-15: Executing transition end...
+[FINE] House$AirConditioner-7: Started staying for 25 ms.
+[FINE] House$Thermometer-8: Finished staying.
+[FINE] House$Thermometer-8: Executing transition end...
+[FINE] House$AirConditioner-7: Finished staying.
+[FINE] House$AirConditioner-7: Executing transition end...

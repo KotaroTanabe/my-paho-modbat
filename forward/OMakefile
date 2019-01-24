@@ -1,0 +1,14 @@
+.PHONY: all clean
+
+scala_src = $(glob *.scala)
+scala_targ = $(replacesuffixes .scala, .class, $(scala_src))
+
+all: $(scala_targ)
+
+$(scala_targ): %.class: %.scala
+	scalac $<
+
+clean:
+	rm -f *.class
+
+.DEFAULT: all

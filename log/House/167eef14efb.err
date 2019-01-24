@@ -1,0 +1,6 @@
+[WARNING] Duplicate transition label "set +".
+[WARNING] Duplicate transition label "set 0".
+[WARNING] Duplicate transition label "set -".
+[WARNING] Duplicate transition label "end".
+[WARNING] Duplicate transition label "break".
+[WARNING] Duplicate transition label "restore".
