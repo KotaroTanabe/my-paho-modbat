@@ -42,6 +42,7 @@ $(builddir)/%.class: $(srcdir)/%.scala $(pahojar) $(modbat)
 	# scala -cp $(rcp) $(mjar) $(opts) --log-path=../log/$(basename $@) --dotify-coverage $(basename $@)
 
 $(builddir)/%.dot: $(builddir)/%.class $(modbat)
+	mkdir -p log/$(basename $(notdir $@))
 	cd $(builddir); \
 	scala -cp $(rcp) $(mjar) --mode=dot $(basename $(notdir $@))
 
