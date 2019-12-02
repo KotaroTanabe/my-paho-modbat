@@ -10,6 +10,7 @@
 
 # USAGE #
 
+1. Clone Paho MQTT library by `$ git submodule update --init --recursive`.
 1. Mosquitto runs automatically in Ubuntu.
    If it is not running, launch it in another shell window by `$ mosquitto`.
 1. `$ make (MODEL NAME).run`
