@@ -1,0 +1,3 @@
+[submodule "paho"]
+	path = paho
+	url = git@bitbucket.org:y-tanabe_nii/paho.mqtt.java.git
